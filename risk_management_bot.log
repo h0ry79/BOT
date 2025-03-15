@@ -1,0 +1,1775 @@
+2025-03-12 19:57:54,751 - ERROR - Error en la configuración: Error: El campo API_KEY es requerido en la configuración
+2025-03-12 20:03:57,748 - INFO - Configuración validada correctamente
+2025-03-12 20:03:57,752 - ERROR - Error inesperado al inicializar el cliente de Binance: aiodns needs a SelectorEventLoop on Windows. See more: https://github.com/saghul/aiodns/issues/86
+2025-03-12 20:03:57,753 - ERROR - Error crítico que requiere atención: aiodns needs a SelectorEventLoop on Windows. See more: https://github.com/saghul/aiodns/issues/86
+2025-03-12 20:16:15,097 - INFO - Configuración validada correctamente
+2025-03-12 20:16:15,686 - INFO - Conexión con Binance establecida correctamente
+2025-03-12 20:16:15,963 - INFO - Tiempo sincronizado | Offset: 661ms
+2025-03-12 20:16:15,963 - INFO - Tiempo sincronizado | Offset: 661ms
+2025-03-12 20:16:15,964 - INFO - Tiempo sincronizado con el servidor de Binance
+2025-03-12 20:16:15,964 - INFO - Bot de trading iniciado correctamente
+2025-03-12 20:16:16,142 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:16,142 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:16,143 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:16,143 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:18,323 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:18,323 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:18,324 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:18,324 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:20,512 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:20,512 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:20,512 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:20,512 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:22,704 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:22,704 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:22,705 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:22,705 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:25,124 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:25,124 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:25,125 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:25,125 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:27,322 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:27,322 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:27,323 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:27,323 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:29,521 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:29,521 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:29,522 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:29,522 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:31,716 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:31,716 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:31,717 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:31,717 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:33,906 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:33,906 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:33,907 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:33,907 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:36,097 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:36,097 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:36,097 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:36,097 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:38,302 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:38,302 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:38,303 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:38,303 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:40,493 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:40,493 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:40,494 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:40,494 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:42,686 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:42,686 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:42,687 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:42,687 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:45,202 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:45,202 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:45,203 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:45,203 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:47,405 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:47,405 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:47,406 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:47,406 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:49,597 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:49,597 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:49,598 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:49,598 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:51,786 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:51,786 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:51,787 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:51,787 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:53,977 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:53,977 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:53,978 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:53,978 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:56,183 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:56,183 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:56,184 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:56,184 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:58,366 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:58,366 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:16:58,367 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:16:58,367 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:17:00,562 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:17:00,562 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:17:00,563 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:17:00,563 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:17:02,763 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:17:02,763 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:17:02,764 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:17:02,764 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:17:04,971 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:17:04,971 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:17:04,972 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:17:04,972 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:17:07,161 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:17:07,161 - ERROR - Error al obtener balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-03-12 20:17:07,162 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:17:07,162 - INFO - Notificación: Saldo insuficiente para gestionar posición
+2025-03-12 20:17:09,171 - INFO - Conexión con Binance cerrada correctamente
+2025-03-12 20:18:26,880 - INFO - Configuración validada correctamente
+2025-03-12 20:18:28,177 - INFO - Conexión con Binance establecida correctamente
+2025-03-12 20:18:28,178 - ERROR - Error crítico que requiere atención: 
+2025-03-12 20:18:28,178 - INFO - Recibida señal de cierre: SIGTERM
+2025-03-12 20:18:28,178 - INFO - Cancelando 0 tareas pendientes
+2025-03-12 20:18:28,179 - INFO - Conexión con Binance cerrada correctamente
+2025-03-12 20:21:57,745 - INFO - Configuración validada correctamente
+2025-03-12 20:21:59,711 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 20:21:59,712 - ERROR - Error crítico que requiere atención: object dict can't be used in 'await' expression
+2025-03-12 20:21:59,713 - INFO - Recibida señal de cierre: SIGTERM
+2025-03-12 20:21:59,713 - INFO - Cancelando 0 tareas pendientes
+2025-03-12 20:23:53,067 - INFO - Configuración validada correctamente
+2025-03-12 20:23:54,274 - INFO - Conexión con Binance establecida correctamente
+2025-03-12 20:23:54,275 - ERROR - Error crítico que requiere atención: 
+2025-03-12 20:23:54,275 - INFO - Recibida señal de cierre: SIGTERM
+2025-03-12 20:23:54,275 - INFO - Cancelando 0 tareas pendientes
+2025-03-12 20:23:54,275 - INFO - Conexión con Binance cerrada correctamente
+2025-03-12 20:25:37,594 - INFO - Configuración validada correctamente
+2025-03-12 20:25:38,919 - INFO - Conexión con Binance establecida correctamente
+2025-03-12 20:25:38,919 - ERROR - Error crítico que requiere atención: 
+2025-03-12 20:25:38,919 - INFO - Recibida señal de cierre: SIGTERM
+2025-03-12 20:25:38,920 - INFO - Cancelando 0 tareas pendientes
+2025-03-12 20:25:38,920 - ERROR - Error fatal: 'Client' object has no attribute 'close'
+2025-03-12 20:27:21,438 - INFO - Configuración validada correctamente
+2025-03-12 20:27:23,525 - INFO - Conexión con Binance establecida correctamente
+2025-03-12 20:27:23,525 - ERROR - Error crítico que requiere atención: 
+2025-03-12 20:27:23,526 - INFO - Recibida señal de cierre: SIGTERM
+2025-03-12 20:27:23,526 - INFO - Cancelando 0 tareas pendientes
+2025-03-12 20:27:23,527 - ERROR - Error fatal: 'Client' object has no attribute 'close'
+2025-03-12 21:50:57,058 - INFO - Configuración validada correctamente
+2025-03-12 21:50:58,128 - INFO - Conexión con Binance establecida correctamente
+2025-03-12 21:50:58,129 - ERROR - Error crítico que requiere atención: 
+2025-03-12 21:50:58,129 - INFO - Recibida señal de cierre: SIGTERM
+2025-03-12 21:50:58,129 - INFO - Cancelando 0 tareas pendientes
+2025-03-12 21:50:58,129 - ERROR - Error al cerrar la conexión con Binance: object NoneType can't be used in 'await' expression
+2025-03-12 21:51:37,346 - INFO - Configuración validada correctamente
+2025-03-12 21:51:38,718 - INFO - Conexión con Binance establecida correctamente
+2025-03-12 21:51:38,719 - ERROR - Error crítico que requiere atención: 
+2025-03-12 21:51:38,719 - INFO - Recibida señal de cierre: SIGTERM
+2025-03-12 21:51:38,720 - INFO - Cancelando 0 tareas pendientes
+2025-03-12 21:51:38,720 - ERROR - Error al cerrar la conexión con Binance: object NoneType can't be used in 'await' expression
+2025-03-12 21:52:24,268 - INFO - Configuración validada correctamente
+2025-03-12 21:52:25,001 - INFO - Conexión con Binance establecida correctamente
+2025-03-12 21:52:25,002 - ERROR - Error crítico que requiere atención: 
+2025-03-12 21:52:25,002 - INFO - Recibida señal de cierre: SIGTERM
+2025-03-12 21:52:25,002 - INFO - Cancelando 0 tareas pendientes
+2025-03-12 21:52:25,002 - INFO - Conexión con Binance liberada correctamente
+2025-03-12 21:53:04,824 - INFO - Configuración validada correctamente
+2025-03-12 21:53:06,015 - INFO - Conexión con Binance establecida correctamente
+2025-03-12 21:53:06,016 - ERROR - Error crítico que requiere atención: 
+2025-03-12 21:53:06,016 - INFO - Recibida señal de cierre: SIGTERM
+2025-03-12 21:53:06,016 - INFO - Cancelando 0 tareas pendientes
+2025-03-12 21:53:06,016 - INFO - Conexión con Binance liberada correctamente
+2025-03-12 21:55:02,451 - INFO - Configuración validada correctamente
+2025-03-12 21:55:03,611 - INFO - Conexión con Binance establecida correctamente
+2025-03-12 21:55:03,611 - ERROR - Error crítico que requiere atención: 
+2025-03-12 21:55:03,611 - INFO - Recibida señal de cierre: SIGTERM
+2025-03-12 21:55:03,612 - INFO - Cancelando 0 tareas pendientes
+2025-03-12 21:55:03,612 - INFO - Conexión con Binance liberada correctamente
+2025-03-12 22:12:25,835 - INFO - Configuración validada correctamente
+2025-03-12 22:12:26,944 - INFO - Conexión con Binance establecida correctamente
+2025-03-12 22:12:26,945 - ERROR - Error crítico que requiere atención: 
+2025-03-12 22:12:26,945 - INFO - Recibida señal de cierre: SIGTERM
+2025-03-12 22:12:26,946 - INFO - Cancelando 0 tareas pendientes
+2025-03-12 22:12:26,946 - INFO - Conexión con Binance liberada correctamente
+2025-03-12 22:27:09,582 - ERROR - Error crítico que requiere atención: name 'logger' is not defined
+2025-03-12 22:27:09,582 - INFO - Recibida señal de cierre: SIGTERM
+2025-03-12 22:27:09,582 - INFO - Cancelando 0 tareas pendientes
+2025-03-12 22:35:48,715 - INFO - Configuración validada correctamente
+2025-03-12 22:35:48,715 - INFO - Configuración validada correctamente
+2025-03-12 22:35:49,818 - INFO - Conexión con Binance establecida correctamente
+2025-03-12 22:35:49,818 - INFO - Conexión con Binance establecida correctamente
+2025-03-12 22:35:49,819 - ERROR - Error crítico que requiere atención: 
+2025-03-12 22:35:49,819 - INFO - Recibida señal de cierre: SIGTERM
+2025-03-12 22:35:49,819 - INFO - Cancelando 0 tareas pendientes
+2025-03-12 22:35:49,819 - INFO - Conexión con Binance liberada correctamente
+2025-03-12 22:37:20,519 - INFO - Configuración validada correctamente
+2025-03-12 22:37:20,520 - INFO - Configuración validada correctamente
+2025-03-12 22:37:21,658 - INFO - Tiempo sincronizado | Offset: 110ms
+2025-03-12 22:37:21,658 - INFO - Tiempo sincronizado | Offset: 110ms
+2025-03-12 22:37:21,659 - INFO - Conexión con Binance establecida correctamente
+2025-03-12 22:37:21,659 - INFO - Conexión con Binance establecida correctamente
+2025-03-12 22:37:21,660 - ERROR - Error crítico que requiere atención: 
+2025-03-12 22:37:21,660 - INFO - Recibida señal de cierre: SIGTERM
+2025-03-12 22:37:21,660 - INFO - Cancelando 0 tareas pendientes
+2025-03-12 22:37:21,660 - INFO - Conexión con Binance liberada correctamente
+2025-03-12 22:40:11,558 - INFO - Configuración validada correctamente
+2025-03-12 22:40:11,558 - INFO - Configuración validada correctamente
+2025-03-12 22:40:12,678 - INFO - Tiempo sincronizado | Offset: 97ms
+2025-03-12 22:40:12,678 - INFO - Tiempo sincronizado | Offset: 97ms
+2025-03-12 22:40:12,679 - INFO - Conexión con Binance establecida correctamente
+2025-03-12 22:40:12,679 - INFO - Conexión con Binance establecida correctamente
+2025-03-12 22:40:12,680 - ERROR - Error crítico que requiere atención: 
+2025-03-12 22:40:12,680 - INFO - Recibida señal de cierre: SIGTERM
+2025-03-12 22:40:12,680 - INFO - Cancelando 0 tareas pendientes
+2025-03-12 22:40:12,680 - INFO - Conexión con Binance liberada correctamente
+2025-03-12 22:46:18,605 - INFO - Configuración validada correctamente
+2025-03-12 22:46:18,605 - INFO - Configuración validada correctamente
+2025-03-12 22:46:19,754 - INFO - Tiempo sincronizado | Offset: 85ms
+2025-03-12 22:46:19,754 - INFO - Tiempo sincronizado | Offset: 85ms
+2025-03-12 22:46:19,754 - INFO - Conexión con Binance establecida correctamente
+2025-03-12 22:46:19,755 - INFO - Conexión con Binance establecida correctamente
+2025-03-12 22:46:19,755 - ERROR - Error crítico que requiere atención: 
+2025-03-12 22:46:19,755 - INFO - Recibida señal de cierre: SIGTERM
+2025-03-12 22:46:19,756 - INFO - Cancelando 0 tareas pendientes
+2025-03-12 22:46:19,756 - INFO - Conexión con Binance liberada correctamente
+2025-03-12 22:47:17,393 - INFO - Configuración validada correctamente
+2025-03-12 22:47:17,393 - INFO - Configuración validada correctamente
+2025-03-12 22:47:18,442 - INFO - Tiempo sincronizado | Offset: 81ms
+2025-03-12 22:47:18,442 - INFO - Tiempo sincronizado | Offset: 81ms
+2025-03-12 22:47:18,443 - INFO - Conexión con Binance establecida correctamente
+2025-03-12 22:47:18,443 - INFO - Conexión con Binance establecida correctamente
+2025-03-12 22:47:18,443 - ERROR - Error crítico que requiere atención: 
+2025-03-12 22:47:18,444 - INFO - Recibida señal de cierre: SIGTERM
+2025-03-12 22:47:18,444 - INFO - Cancelando 0 tareas pendientes
+2025-03-12 22:47:18,444 - INFO - Conexión con Binance liberada correctamente
+2025-03-12 22:49:50,115 - INFO - Configuración validada correctamente
+2025-03-12 22:49:50,115 - INFO - Configuración validada correctamente
+2025-03-12 22:49:51,296 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:49:51,296 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:49:51,297 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:49:56,365 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:49:56,365 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:49:56,366 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:50:01,089 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:50:01,089 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:50:01,091 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:50:10,163 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:50:10,163 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:50:10,164 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:50:27,278 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:50:27,278 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:50:27,279 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:50:48,414 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:50:48,414 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:50:48,414 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:51:09,497 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:51:09,497 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:51:09,498 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:51:30,564 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:51:30,564 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:51:30,565 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:51:51,617 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:51:51,617 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:51:51,617 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:52:12,676 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:52:12,676 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:52:12,677 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:52:12,678 - WARNING - Reintento 1/10 de conexión con Binance
+2025-03-12 22:52:18,737 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:52:18,737 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:52:18,738 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:52:23,485 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:52:23,485 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:52:23,486 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:52:28,191 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:52:28,191 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:52:28,192 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:52:37,241 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:52:37,241 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:52:37,242 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:52:54,308 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:52:54,308 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:52:54,308 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:53:15,459 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:53:15,459 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:53:15,460 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:53:36,556 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:53:36,556 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:53:36,557 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:53:57,600 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:53:57,600 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:53:57,601 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:54:18,741 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:54:18,741 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:54:18,742 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:54:39,819 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:54:39,819 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:54:39,820 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:54:39,821 - WARNING - Reintento 2/10 de conexión con Binance
+2025-03-12 22:54:45,864 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:54:45,864 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:54:45,865 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:54:50,900 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:54:50,900 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:54:50,900 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:54:55,944 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:54:55,944 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:54:55,945 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:55:05,029 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:55:05,029 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:55:05,030 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:55:22,114 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:55:22,114 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:55:22,115 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:55:43,221 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:55:43,221 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:55:43,222 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:56:04,266 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:56:04,266 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:56:04,267 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:56:25,328 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:56:25,328 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:56:25,329 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:56:46,376 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:56:46,376 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:56:46,377 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:57:07,455 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:57:07,455 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:57:07,456 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:57:07,457 - WARNING - Reintento 3/10 de conexión con Binance
+2025-03-12 22:57:13,489 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:57:13,489 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:57:13,490 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:57:18,527 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:57:18,527 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:57:18,528 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:57:23,251 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:57:23,251 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:57:23,252 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:57:28,992 - INFO - Configuración validada correctamente
+2025-03-12 22:57:28,993 - INFO - Configuración validada correctamente
+2025-03-12 22:57:29,741 - INFO - Conexión con Binance establecida correctamente
+2025-03-12 22:57:29,742 - INFO - Conexión con Binance establecida correctamente
+2025-03-12 22:57:29,742 - ERROR - Error crítico que requiere atención: 
+2025-03-12 22:57:29,742 - INFO - Recibida señal de cierre: SIGTERM
+2025-03-12 22:57:29,742 - INFO - Cancelando 0 tareas pendientes
+2025-03-12 22:57:29,742 - INFO - Conexión con Binance liberada correctamente
+2025-03-12 22:57:31,966 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:57:31,966 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 22:57:31,967 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 22:57:47,969 - INFO - Recibida señal de cierre: SIGTERM
+2025-03-12 22:57:47,970 - INFO - Cancelando 0 tareas pendientes
+2025-03-12 22:57:47,971 - INFO - Bot detenido por el usuario
+2025-03-12 23:01:54,307 - INFO - Configuración validada correctamente
+2025-03-12 23:01:54,308 - INFO - Configuración validada correctamente
+2025-03-12 23:01:55,406 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:01:55,406 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:01:55,406 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:02:00,483 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:02:00,483 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:02:00,484 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:02:05,194 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:02:05,194 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:02:05,195 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:02:14,294 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:02:14,294 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:02:14,294 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:02:31,377 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:02:31,377 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:02:31,377 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:02:52,412 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:02:52,412 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:02:52,413 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:03:13,486 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:03:13,486 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:03:13,487 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:03:34,542 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:03:34,542 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:03:34,542 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:03:55,665 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:03:55,665 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:03:55,666 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:04:16,726 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:04:16,726 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:04:16,726 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:04:16,727 - WARNING - Reintento 1/10 de conexión con Binance
+2025-03-12 23:04:22,785 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:04:22,785 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:04:22,786 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:04:27,502 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:04:27,502 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:04:27,503 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:04:32,209 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:04:32,209 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:04:32,210 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:04:41,255 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:04:41,255 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:04:41,256 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:04:58,340 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:04:58,340 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:04:58,341 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:05:19,436 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:05:19,436 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:05:19,437 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:05:40,477 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:05:40,477 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:05:40,478 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:06:01,553 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:06:01,553 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:06:01,553 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:06:22,685 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:06:22,685 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:06:22,686 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:06:43,728 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:06:43,728 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:06:43,729 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:06:43,729 - WARNING - Reintento 2/10 de conexión con Binance
+2025-03-12 23:06:49,799 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:06:49,799 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:06:49,800 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:06:54,858 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:06:54,858 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:06:54,859 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:06:59,309 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:06:59,309 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:06:59,310 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:07:08,371 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:07:08,371 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:07:08,372 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:07:25,437 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:07:25,437 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:07:25,438 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:07:46,594 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:07:46,594 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:07:46,594 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:08:07,652 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:08:07,652 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:08:07,653 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:08:28,719 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:08:28,719 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:08:28,720 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:08:49,747 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:08:49,747 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:08:49,748 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:09:10,783 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:09:10,783 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:09:10,784 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:09:10,784 - WARNING - Reintento 3/10 de conexión con Binance
+2025-03-12 23:09:16,828 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:09:16,828 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:09:16,829 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:09:21,876 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:09:21,876 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:09:21,877 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:09:26,616 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:09:26,616 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:09:26,616 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:09:35,711 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:09:35,711 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:09:35,712 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:09:52,441 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:09:52,441 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:09:52,442 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:10:13,504 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:10:13,504 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:10:13,505 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:10:34,579 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:10:34,579 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:10:34,580 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:10:55,742 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:10:55,742 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:10:55,743 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-12 23:11:16,834 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:11:16,834 - ERROR - Error inesperado al sincronizar tiempo: object dict can't be used in 'await' expression
+2025-03-12 23:11:16,835 - ERROR - Error inesperado al inicializar el cliente de Binance: object dict can't be used in 'await' expression
+2025-03-13 21:44:20,948 - INFO - Configuración validada correctamente
+2025-03-13 21:44:20,949 - INFO - Configuración validada correctamente
+2025-03-13 21:44:22,549 - INFO - Diferencia de tiempo con el servidor: 453ms
+2025-03-13 21:44:22,549 - INFO - Diferencia de tiempo con el servidor: 453ms
+2025-03-13 21:44:22,550 - INFO - Tiempo sincronizado correctamente con el servidor de Binance
+2025-03-13 21:44:22,550 - INFO - Conexión con Binance establecida correctamente
+2025-03-13 21:44:22,550 - ERROR - Error crítico que requiere atención: 
+2025-03-13 21:44:22,551 - INFO - Recibida señal de cierre: SIGTERM
+2025-03-13 21:44:22,551 - INFO - Cancelando 0 tareas pendientes
+2025-03-13 21:44:22,551 - INFO - Conexión con Binance liberada correctamente
+2025-03-13 21:44:22,552 - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x0000025C031E3770>
+2025-03-13 21:44:22,552 - ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x0000025C031DBBF0>, 4501.4275864)]']
+connector: <aiohttp.connector.TCPConnector object at 0x0000025C031E38C0>
+2025-03-13 21:59:53,998 - INFO - Configuración validada correctamente
+2025-03-13 21:59:53,998 - INFO - Configuración validada correctamente
+2025-03-13 21:59:55,630 - INFO - Diferencia de tiempo con el servidor: 395ms
+2025-03-13 21:59:55,630 - INFO - Diferencia de tiempo con el servidor: 395ms
+2025-03-13 21:59:55,631 - INFO - Tiempo sincronizado correctamente con el servidor de Binance
+2025-03-13 21:59:55,631 - INFO - Conexión con Binance establecida correctamente
+2025-03-13 21:59:55,631 - ERROR - Error crítico que requiere atención: 
+2025-03-13 21:59:55,632 - INFO - Recibida señal de cierre: SIGTERM
+2025-03-13 21:59:55,632 - INFO - Cancelando 0 tareas pendientes
+2025-03-13 21:59:55,632 - INFO - Conexión con Binance liberada correctamente
+2025-03-13 21:59:55,632 - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x00000266D7BDF770>
+2025-03-13 21:59:55,633 - ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x00000266D7BD7C50>, 5434.5088615)]']
+connector: <aiohttp.connector.TCPConnector object at 0x00000266D7BDF8C0>
+2025-03-13 22:05:35,073 - INFO - Configuración validada correctamente
+2025-03-13 22:05:35,073 - INFO - Configuración validada correctamente
+2025-03-13 22:05:36,687 - INFO - Diferencia de tiempo con el servidor: 375ms
+2025-03-13 22:05:36,687 - INFO - Diferencia de tiempo con el servidor: 375ms
+2025-03-13 22:05:36,688 - INFO - Tiempo sincronizado correctamente con el servidor de Binance
+2025-03-13 22:05:36,688 - INFO - Conexión con Binance establecida correctamente
+2025-03-13 22:05:36,688 - ERROR - Error crítico que requiere atención: 
+2025-03-13 22:05:36,689 - INFO - Recibida señal de cierre: SIGTERM
+2025-03-13 22:05:36,689 - INFO - Cancelando 0 tareas pendientes
+2025-03-13 22:05:36,689 - INFO - Conexión con Binance liberada correctamente
+2025-03-13 22:05:36,689 - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x00000234A8FC7770>
+2025-03-13 22:05:36,690 - ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x00000234A8FDBC50>, 5775.5664501)]']
+connector: <aiohttp.connector.TCPConnector object at 0x00000234A8FC78C0>
+2025-03-13 22:11:30,778 - INFO - Configuración validada correctamente
+2025-03-13 22:11:30,778 - INFO - Configuración validada correctamente
+2025-03-13 22:11:32,413 - INFO - Diferencia de tiempo con el servidor: 335ms
+2025-03-13 22:11:32,413 - INFO - Diferencia de tiempo con el servidor: 335ms
+2025-03-13 22:11:32,414 - INFO - Tiempo sincronizado correctamente con el servidor de Binance
+2025-03-13 22:11:32,414 - INFO - Conexión con Binance establecida correctamente
+2025-03-13 22:11:32,415 - ERROR - Error crítico que requiere atención: 
+2025-03-13 22:11:32,415 - INFO - Recibida señal de cierre: SIGTERM
+2025-03-13 22:11:32,415 - INFO - Cancelando 0 tareas pendientes
+2025-03-13 22:11:32,416 - INFO - Conexión con Binance liberada correctamente
+2025-03-13 22:11:32,416 - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x0000029E5A0E3770>
+2025-03-13 22:11:32,416 - ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x0000029E5A0DBBF0>, 6131.2925798)]']
+connector: <aiohttp.connector.TCPConnector object at 0x0000029E5A0E38C0>
+2025-03-13 22:16:33,081 - INFO - Configuración validada correctamente
+2025-03-13 22:16:33,081 - INFO - Configuración validada correctamente
+2025-03-13 22:16:34,675 - INFO - Diferencia de tiempo con el servidor: 333ms
+2025-03-13 22:16:34,675 - INFO - Diferencia de tiempo con el servidor: 333ms
+2025-03-13 22:16:34,676 - INFO - Tiempo sincronizado correctamente con el servidor de Binance
+2025-03-13 22:16:34,676 - INFO - Conexión con Binance establecida correctamente
+2025-03-13 22:16:34,676 - ERROR - Error crítico que requiere atención: 
+2025-03-13 22:16:34,677 - INFO - Recibida señal de cierre: SIGTERM
+2025-03-13 22:16:34,677 - INFO - Cancelando 0 tareas pendientes
+2025-03-13 22:16:34,677 - INFO - Conexión con Binance liberada correctamente
+2025-03-13 22:16:34,678 - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000001C304B43770>
+2025-03-13 22:16:34,678 - ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x000001C304B3BCB0>, 6433.5539951)]']
+connector: <aiohttp.connector.TCPConnector object at 0x000001C304B438C0>
+2025-03-13 22:18:26,593 - INFO - Configuración validada correctamente
+2025-03-13 22:18:26,593 - INFO - Configuración validada correctamente
+2025-03-13 22:18:28,213 - INFO - Diferencia de tiempo con el servidor: 325ms
+2025-03-13 22:18:28,213 - INFO - Diferencia de tiempo con el servidor: 325ms
+2025-03-13 22:18:28,214 - INFO - Tiempo sincronizado correctamente con el servidor de Binance
+2025-03-13 22:18:28,214 - INFO - Conexión con Binance establecida correctamente
+2025-03-13 22:18:28,214 - ERROR - Error crítico que requiere atención: 
+2025-03-13 22:18:28,215 - INFO - Recibida señal de cierre: SIGTERM
+2025-03-13 22:18:28,215 - INFO - Cancelando 0 tareas pendientes
+2025-03-13 22:18:28,215 - INFO - Conexión con Binance liberada correctamente
+2025-03-13 22:18:28,215 - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000002A41231F770>
+2025-03-13 22:18:28,216 - ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x000002A412317B90>, 6547.0919591)]']
+connector: <aiohttp.connector.TCPConnector object at 0x000002A41231F8C0>
+2025-03-13 22:21:51,726 - INFO - Configuración validada correctamente
+2025-03-13 22:21:51,726 - INFO - Configuración validada correctamente
+2025-03-13 22:21:53,374 - INFO - Diferencia de tiempo con el servidor: 312ms
+2025-03-13 22:21:53,374 - INFO - Diferencia de tiempo con el servidor: 312ms
+2025-03-13 22:21:53,375 - INFO - Tiempo sincronizado correctamente con el servidor de Binance
+2025-03-13 22:21:53,375 - INFO - Conexión con Binance establecida correctamente
+2025-03-13 22:21:53,375 - ERROR - Error crítico que requiere atención: 
+2025-03-13 22:21:53,375 - INFO - Recibida señal de cierre: SIGTERM
+2025-03-13 22:21:53,376 - INFO - Cancelando 0 tareas pendientes
+2025-03-13 22:21:53,376 - INFO - Conexión con Binance liberada correctamente
+2025-03-13 22:21:53,376 - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x0000016E870E38C0>
+2025-03-13 22:21:53,376 - ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x0000016E870DBD70>, 6752.2533284)]']
+connector: <aiohttp.connector.TCPConnector object at 0x0000016E870E3A10>
+2025-03-13 22:22:23,286 - INFO - Configuración validada correctamente
+2025-03-13 22:22:23,286 - INFO - Configuración validada correctamente
+2025-03-13 22:22:24,882 - INFO - Diferencia de tiempo con el servidor: 311ms
+2025-03-13 22:22:24,882 - INFO - Diferencia de tiempo con el servidor: 311ms
+2025-03-13 22:22:24,882 - INFO - Tiempo sincronizado correctamente con el servidor de Binance
+2025-03-13 22:22:24,883 - INFO - Conexión con Binance establecida correctamente
+2025-03-13 22:22:24,883 - ERROR - Error crítico que requiere atención: 
+2025-03-13 22:22:24,883 - INFO - Recibida señal de cierre: SIGTERM
+2025-03-13 22:22:24,883 - INFO - Cancelando 0 tareas pendientes
+2025-03-13 22:22:24,884 - INFO - Conexión con Binance liberada correctamente
+2025-03-13 22:22:24,884 - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000001BACF4E38C0>
+2025-03-13 22:22:24,884 - ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x000001BACF4DBC50>, 6783.7609806)]']
+connector: <aiohttp.connector.TCPConnector object at 0x000001BACF4E3A10>
+2025-03-13 22:25:03,327 - INFO - Configuración validada correctamente
+2025-03-13 22:25:03,327 - INFO - Configuración validada correctamente
+2025-03-13 22:25:04,587 - INFO - Diferencia de tiempo con el servidor: 300ms
+2025-03-13 22:25:04,587 - INFO - Diferencia de tiempo con el servidor: 300ms
+2025-03-13 22:25:04,588 - INFO - Tiempo sincronizado correctamente con el servidor de Binance
+2025-03-13 22:25:04,588 - INFO - Conexión con Binance establecida correctamente
+2025-03-13 22:25:04,588 - ERROR - Error crítico que requiere atención: 
+2025-03-13 22:25:04,588 - INFO - Recibida señal de cierre: SIGTERM
+2025-03-13 22:25:04,588 - INFO - Cancelando 0 tareas pendientes
+2025-03-13 22:25:04,589 - INFO - Conexión con Binance liberada correctamente
+2025-03-13 22:27:19,503 - INFO - Diferencia de tiempo con el servidor: 292ms
+2025-03-13 22:28:41,395 - INFO - Diferencia de tiempo con el servidor: 284ms
+2025-03-13 22:29:56,589 - INFO - Diferencia de tiempo con el servidor: 277ms
+2025-03-13 22:33:52,436 - INFO - Diferencia de tiempo con el servidor: 267ms
+2025-03-13 22:39:31,110 - INFO - Diferencia de tiempo con el servidor: 246ms
+2025-03-13 22:40:58,736 - INFO - Diferencia de tiempo con el servidor: 241ms
+2025-03-13 22:42:36,213 - INFO - Diferencia de tiempo con el servidor: 236ms
+2025-03-13 22:44:56,182 - INFO - Diferencia de tiempo con el servidor: 226ms
+2025-03-13 22:45:38,642 - INFO - Diferencia de tiempo con el servidor: 224ms
+2025-03-13 22:47:26,818 - INFO - Diferencia de tiempo con el servidor: 215ms
+2025-03-13 22:48:34,744 - INFO - Diferencia de tiempo con el servidor: 211ms
+2025-03-13 22:49:46,921 - INFO - Diferencia de tiempo con el servidor: 207ms
+2025-03-13 22:49:46,922 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-13 22:55:25,570 - INFO - Diferencia de tiempo con el servidor: 185ms
+2025-03-13 22:55:25,570 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-13 23:05:00,860 - INFO - Diferencia de tiempo con el servidor: 151ms
+2025-03-13 23:05:00,861 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-13 23:09:49,268 - INFO - Diferencia de tiempo con el servidor: 133ms
+2025-03-13 23:09:49,268 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-13 23:15:06,087 - INFO - Diferencia de tiempo con el servidor: 110ms
+2025-03-13 23:15:06,088 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-13 23:18:47,418 - INFO - Diferencia de tiempo con el servidor: 98ms
+2025-03-13 23:18:47,418 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-13 23:34:44,834 - INFO - Diferencia de tiempo con el servidor: 38ms
+2025-03-13 23:34:44,835 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-13 23:40:26,510 - INFO - Diferencia de tiempo con el servidor: 16ms
+2025-03-13 23:40:26,510 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-13 23:42:42,326 - INFO - Diferencia de tiempo con el servidor: 6ms
+2025-03-13 23:42:42,327 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-13 23:45:12,396 - INFO - Diferencia de tiempo con el servidor: -1ms
+2025-03-13 23:45:12,397 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-13 23:49:07,427 - INFO - Diferencia de tiempo con el servidor: -18ms
+2025-03-13 23:49:07,428 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-13 23:49:08,587 - WARNING - Invalid bid/ask prices
+2025-03-13 23:49:10,986 - WARNING - Invalid bid/ask prices
+2025-03-13 23:49:13,367 - WARNING - Invalid bid/ask prices
+2025-03-13 23:49:15,750 - WARNING - Invalid bid/ask prices
+2025-03-13 23:49:18,134 - WARNING - Invalid bid/ask prices
+2025-03-13 23:49:20,512 - WARNING - Invalid bid/ask prices
+2025-03-13 23:49:23,242 - WARNING - Invalid bid/ask prices
+2025-03-13 23:49:26,307 - WARNING - Invalid bid/ask prices
+2025-03-13 23:51:15,293 - INFO - Diferencia de tiempo con el servidor: -25ms
+2025-03-13 23:51:15,294 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-13 23:59:05,165 - INFO - Diferencia de tiempo con el servidor: -55ms
+2025-03-13 23:59:05,165 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 00:03:30,959 - INFO - Diferencia de tiempo con el servidor: -78ms
+2025-03-14 00:03:30,960 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 00:06:22,545 - INFO - Diferencia de tiempo con el servidor: -83ms
+2025-03-14 00:06:22,546 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 00:08:46,718 - INFO - Diferencia de tiempo con el servidor: -92ms
+2025-03-14 00:08:46,719 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 00:08:51,629 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:08:55,204 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:08:58,467 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:09:01,728 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:09:05,286 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:09:08,519 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:09:11,731 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:09:14,960 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:09:18,506 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:09:21,765 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:09:25,010 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:09:28,264 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:09:31,187 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:09:34,432 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:09:37,340 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:09:40,571 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:09:43,805 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:09:46,696 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:09:49,925 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:09:53,158 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:09:56,375 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:09:59,936 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:10:03,497 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:10:07,087 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:10:10,642 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:10:14,200 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:10:17,429 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:10:20,004 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:10:23,563 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:10:26,788 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:10:30,041 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:10:33,267 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:10:36,507 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:10:39,435 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:10:42,335 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:10:45,895 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:10:49,440 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:10:52,378 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:10:55,282 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:10:58,538 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:11:02,099 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:11:05,660 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:11:08,893 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:11:12,471 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:11:15,394 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:11:18,331 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:11:21,896 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:11:25,477 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:11:29,053 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:11:32,633 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:11:35,905 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:11:39,461 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:11:43,043 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:11:45,942 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:11:49,513 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:11:53,088 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:11:56,341 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:11:59,556 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:12:03,136 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:12:06,709 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:12:09,627 - ERROR - Error al actualizar indicadores: sequence index must be integer, not 'slice'
+2025-03-14 00:16:53,634 - INFO - Diferencia de tiempo con el servidor: -126ms
+2025-03-14 00:16:53,635 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 01:16:24,715 - INFO - Diferencia de tiempo con el servidor: -350ms
+2025-03-14 01:16:24,716 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 18:14:47,226 - INFO - Diferencia de tiempo con el servidor: -4198ms
+2025-03-14 18:14:48,809 - INFO - Diferencia de tiempo con el servidor: -4198ms
+2025-03-14 18:14:48,809 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 18:14:48,810 - ERROR - Desviación promedio persistentemente alta: 4198.00ms. Forzando reconexión...
+2025-03-14 18:14:48,810 - ERROR - Error al cerrar el cliente de Binance: 'AsyncClient' object has no attribute '_connector'
+2025-03-14 18:14:48,811 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 18:15:41,178 - INFO - Diferencia de tiempo con el servidor: -91ms
+2025-03-14 18:15:42,412 - INFO - Diferencia de tiempo con el servidor: -90ms
+2025-03-14 18:15:42,412 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 18:15:42,413 - INFO - Iniciando sincronización inicial de tiempo
+2025-03-14 18:15:42,590 - INFO - Diferencia de tiempo con el servidor: -90ms
+2025-03-14 18:15:42,590 - WARNING - Intento de sincronización 1/3
+2025-03-14 18:15:43,094 - INFO - Diferencia de tiempo con el servidor: -90ms
+2025-03-14 18:15:43,094 - WARNING - Intento de sincronización 2/3
+2025-03-14 18:15:43,594 - INFO - Diferencia de tiempo con el servidor: -88ms
+2025-03-14 18:15:43,595 - WARNING - Intento de sincronización 3/3
+2025-03-14 18:15:44,092 - INFO - Diferencia de tiempo con el servidor: -90ms
+2025-03-14 18:15:44,092 - WARNING - Desincronización detectada: -90ms > 30.0ms. Monitoreando...
+2025-03-14 18:15:44,093 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 18:15:46,000 - INFO - Diferencia de tiempo con el servidor: -92ms
+2025-03-14 18:15:46,000 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 18:15:46,000 - WARNING - Intento de sincronización 1/3
+2025-03-14 18:15:46,176 - INFO - Diferencia de tiempo con el servidor: -91ms
+2025-03-14 18:15:46,176 - WARNING - Intento de sincronización 2/3
+2025-03-14 18:15:46,682 - INFO - Diferencia de tiempo con el servidor: -90ms
+2025-03-14 18:15:46,682 - WARNING - Intento de sincronización 3/3
+2025-03-14 18:15:47,187 - INFO - Diferencia de tiempo con el servidor: -90ms
+2025-03-14 18:15:47,187 - WARNING - Desincronización detectada: -90ms > 30.0ms. Monitoreando...
+2025-03-14 18:15:48,375 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 18:15:54,595 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 18:16:01,150 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 18:16:07,373 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 18:16:13,589 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 18:16:20,169 - INFO - Diferencia de tiempo con el servidor: -91ms
+2025-03-14 18:16:20,169 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 18:16:20,169 - INFO - Iniciando sincronización programada de tiempo
+2025-03-14 18:16:20,674 - INFO - Diferencia de tiempo con el servidor: -92ms
+2025-03-14 18:16:20,674 - WARNING - Intento de sincronización 1/3
+2025-03-14 18:16:21,179 - INFO - Diferencia de tiempo con el servidor: -93ms
+2025-03-14 18:16:21,179 - WARNING - Intento de sincronización 2/3
+2025-03-14 18:16:21,697 - INFO - Diferencia de tiempo con el servidor: -105ms
+2025-03-14 18:16:21,697 - WARNING - Intento de sincronización 3/3
+2025-03-14 18:16:21,874 - INFO - Diferencia de tiempo con el servidor: -93ms
+2025-03-14 18:16:21,874 - WARNING - Desincronización detectada: -93ms > 30.0ms. Monitoreando...
+2025-03-14 18:16:23,057 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 18:16:28,958 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 18:16:34,858 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 18:16:41,079 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 18:16:46,652 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 18:16:52,963 - INFO - Diferencia de tiempo con el servidor: -94ms
+2025-03-14 18:16:52,963 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 18:16:52,964 - INFO - Iniciando sincronización programada de tiempo
+2025-03-14 18:16:53,463 - INFO - Diferencia de tiempo con el servidor: -94ms
+2025-03-14 18:16:53,463 - WARNING - Intento de sincronización 1/3
+2025-03-14 18:16:53,965 - INFO - Diferencia de tiempo con el servidor: -94ms
+2025-03-14 18:16:53,965 - WARNING - Intento de sincronización 2/3
+2025-03-14 18:16:54,140 - INFO - Diferencia de tiempo con el servidor: -94ms
+2025-03-14 18:16:54,140 - WARNING - Intento de sincronización 3/3
+2025-03-14 18:16:54,328 - INFO - Diferencia de tiempo con el servidor: -107ms
+2025-03-14 18:16:54,328 - WARNING - Desincronización detectada: -107ms > 30.0ms. Monitoreando...
+2025-03-14 18:16:55,525 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 18:17:01,421 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 18:17:07,001 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 18:17:13,224 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 18:17:19,455 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 18:17:25,748 - INFO - Diferencia de tiempo con el servidor: -95ms
+2025-03-14 18:17:25,749 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 18:17:25,749 - INFO - Iniciando sincronización programada de tiempo
+2025-03-14 18:17:26,248 - INFO - Diferencia de tiempo con el servidor: -96ms
+2025-03-14 18:17:26,248 - WARNING - Intento de sincronización 1/3
+2025-03-14 18:17:26,421 - INFO - Diferencia de tiempo con el servidor: -96ms
+2025-03-14 18:17:26,421 - WARNING - Intento de sincronización 2/3
+2025-03-14 18:17:26,924 - INFO - Diferencia de tiempo con el servidor: -96ms
+2025-03-14 18:17:26,924 - WARNING - Intento de sincronización 3/3
+2025-03-14 18:17:27,100 - INFO - Diferencia de tiempo con el servidor: -96ms
+2025-03-14 18:17:27,100 - WARNING - Desincronización detectada: -96ms > 30.0ms. Monitoreando...
+2025-03-14 18:17:27,969 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 18:17:34,194 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 18:17:40,093 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 18:17:46,021 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 18:17:52,264 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 18:17:58,877 - INFO - Diferencia de tiempo con el servidor: -98ms
+2025-03-14 18:17:58,877 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 18:17:58,878 - INFO - Iniciando sincronización programada de tiempo
+2025-03-14 18:17:59,379 - INFO - Diferencia de tiempo con el servidor: -99ms
+2025-03-14 18:17:59,379 - WARNING - Intento de sincronización 1/3
+2025-03-14 18:17:59,553 - INFO - Diferencia de tiempo con el servidor: -97ms
+2025-03-14 18:17:59,554 - WARNING - Intento de sincronización 2/3
+2025-03-14 18:18:00,052 - INFO - Diferencia de tiempo con el servidor: -97ms
+2025-03-14 18:18:00,053 - WARNING - Intento de sincronización 3/3
+2025-03-14 18:18:00,559 - INFO - Diferencia de tiempo con el servidor: -98ms
+2025-03-14 18:18:00,560 - WARNING - Desincronización detectada: -98ms > 30.0ms. Monitoreando...
+2025-03-14 18:18:01,100 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 18:18:07,004 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 18:18:13,227 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 18:18:19,788 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 18:18:26,015 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 18:18:31,948 - INFO - Diferencia de tiempo con el servidor: -100ms
+2025-03-14 18:18:31,948 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 18:18:31,949 - INFO - Iniciando sincronización programada de tiempo
+2025-03-14 18:18:32,449 - INFO - Diferencia de tiempo con el servidor: -99ms
+2025-03-14 18:18:32,450 - WARNING - Intento de sincronización 1/3
+2025-03-14 18:18:32,626 - INFO - Diferencia de tiempo con el servidor: -100ms
+2025-03-14 18:18:32,627 - WARNING - Intento de sincronización 2/3
+2025-03-14 18:18:32,803 - INFO - Diferencia de tiempo con el servidor: -102ms
+2025-03-14 18:18:32,803 - WARNING - Intento de sincronización 3/3
+2025-03-14 18:18:33,306 - INFO - Diferencia de tiempo con el servidor: -100ms
+2025-03-14 18:18:33,307 - WARNING - Desincronización detectada: -100ms > 30.0ms. Monitoreando...
+2025-03-14 18:18:34,177 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 18:18:40,389 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 18:18:46,631 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 18:18:53,184 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 18:18:59,447 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 18:54:35,302 - INFO - Diferencia de tiempo con el servidor: -235ms
+2025-03-14 18:54:36,918 - INFO - Diferencia de tiempo con el servidor: -235ms
+2025-03-14 18:54:36,918 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 18:54:36,919 - ERROR - Desviación promedio persistentemente alta: 235.00ms. Forzando reconexión...
+2025-03-14 18:54:36,919 - ERROR - Error al cerrar el cliente de Binance: 'AsyncClient' object has no attribute '_connector'
+2025-03-14 18:54:36,920 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 18:56:10,861 - INFO - Diferencia de tiempo con el servidor: -241ms
+2025-03-14 18:56:12,423 - INFO - Diferencia de tiempo con el servidor: -241ms
+2025-03-14 18:56:12,423 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 18:56:12,424 - ERROR - Desviación promedio persistentemente alta: 241.00ms. Forzando reconexión...
+2025-03-14 18:56:12,424 - ERROR - Error al cerrar el cliente de Binance: 'AsyncClient' object has no attribute '_connector'
+2025-03-14 18:56:12,425 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 18:56:54,166 - INFO - Diferencia de tiempo con el servidor: -244ms
+2025-03-14 18:56:55,414 - INFO - Diferencia de tiempo con el servidor: -244ms
+2025-03-14 18:56:55,415 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 18:56:55,415 - ERROR - Desviación promedio persistentemente alta: 244.00ms. Forzando reconexión...
+2025-03-14 18:56:55,416 - ERROR - Error al cerrar el cliente de Binance: 'AsyncClient' object has no attribute '_connector'
+2025-03-14 18:56:55,416 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 18:59:53,253 - INFO - Diferencia de tiempo con el servidor: -256ms
+2025-03-14 18:59:54,561 - INFO - Diferencia de tiempo con el servidor: -255ms
+2025-03-14 18:59:54,561 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 18:59:54,562 - ERROR - Desviación promedio persistentemente alta: 255.00ms. Forzando reconexión...
+2025-03-14 18:59:54,562 - ERROR - Error al cerrar el cliente de Binance: 'AsyncClient' object has no attribute '_connector'
+2025-03-14 18:59:54,563 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 19:11:15,839 - INFO - Diferencia de tiempo con el servidor: -297ms
+2025-03-14 19:11:17,103 - INFO - Diferencia de tiempo con el servidor: -298ms
+2025-03-14 19:11:17,103 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 19:11:17,104 - ERROR - Desviación promedio persistentemente alta: 298.00ms. Forzando reconexión...
+2025-03-14 19:11:17,105 - ERROR - Error al cerrar el cliente de Binance: 'AsyncClient' object has no attribute '_connector'
+2025-03-14 19:11:17,105 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 19:16:35,513 - INFO - Diferencia de tiempo con el servidor: -317ms
+2025-03-14 19:16:36,474 - INFO - Diferencia de tiempo con el servidor: -318ms
+2025-03-14 19:16:36,475 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 19:16:36,475 - ERROR - Desviación promedio persistentemente alta: 318.00ms. Forzando reconexión...
+2025-03-14 19:16:36,476 - ERROR - Error al cerrar el cliente de Binance: 'AsyncClient' object has no attribute '_connector'
+2025-03-14 19:16:36,476 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 19:17:13,055 - INFO - Diferencia de tiempo con el servidor: -319ms
+2025-03-14 19:17:13,966 - INFO - Diferencia de tiempo con el servidor: -319ms
+2025-03-14 19:17:13,967 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 19:17:13,967 - ERROR - Desviación promedio persistentemente alta: 319.00ms. Forzando reconexión...
+2025-03-14 19:17:13,968 - ERROR - Error al cerrar el cliente de Binance: 'AsyncClient' object has no attribute '_connector'
+2025-03-14 19:17:13,968 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 19:20:31,979 - INFO - Diferencia de tiempo con el servidor: -331ms
+2025-03-14 19:20:33,246 - INFO - Diferencia de tiempo con el servidor: -332ms
+2025-03-14 19:20:33,247 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 19:20:33,247 - ERROR - Desviación promedio persistentemente alta: 332.00ms. Forzando reconexión...
+2025-03-14 19:20:33,248 - ERROR - Error al cerrar el cliente de Binance: 'AsyncClient' object has no attribute '_connector'
+2025-03-14 19:20:33,248 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 19:22:22,508 - INFO - Diferencia de tiempo con el servidor: -339ms
+2025-03-14 19:22:24,083 - INFO - Diferencia de tiempo con el servidor: -338ms
+2025-03-14 19:22:24,083 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 19:22:24,083 - ERROR - Desviación promedio persistentemente alta: 338.00ms. Forzando reconexión...
+2025-03-14 19:22:24,084 - INFO - Conexión con Binance cerrada correctamente
+2025-03-14 19:22:24,084 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 19:22:59,394 - INFO - Diferencia de tiempo con el servidor: -341ms
+2025-03-14 19:23:00,307 - INFO - Diferencia de tiempo con el servidor: -342ms
+2025-03-14 19:23:00,307 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 19:23:00,307 - ERROR - Desviación promedio persistentemente alta: 342.00ms. Forzando reconexión...
+2025-03-14 19:23:00,308 - INFO - Conexión con Binance cerrada correctamente
+2025-03-14 19:23:00,308 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 19:23:40,479 - INFO - Diferencia de tiempo con el servidor: -344ms
+2025-03-14 19:23:41,411 - INFO - Diferencia de tiempo con el servidor: -357ms
+2025-03-14 19:23:41,412 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 19:23:41,412 - ERROR - Desviación promedio persistentemente alta: 357.00ms. Forzando reconexión...
+2025-03-14 19:23:41,413 - INFO - Conexión con Binance cerrada correctamente
+2025-03-14 19:23:41,413 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 19:35:00,022 - INFO - Diferencia de tiempo con el servidor: -388ms
+2025-03-14 19:35:01,611 - INFO - Diferencia de tiempo con el servidor: -386ms
+2025-03-14 19:35:01,611 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 19:35:01,611 - ERROR - Desviación promedio persistentemente alta: 386.00ms. Forzando reconexión...
+2025-03-14 19:35:01,612 - INFO - Conexión con Binance cerrada correctamente
+2025-03-14 19:35:01,612 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 19:35:58,010 - INFO - Diferencia de tiempo con el servidor: -389ms
+2025-03-14 19:35:59,237 - INFO - Diferencia de tiempo con el servidor: -389ms
+2025-03-14 19:35:59,238 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 19:35:59,238 - ERROR - Desviación promedio persistentemente alta: 389.00ms. Forzando reconexión...
+2025-03-14 19:35:59,239 - INFO - Conexión con Binance cerrada correctamente
+2025-03-14 19:36:02,162 - INFO - Diferencia de tiempo con el servidor: -391ms
+2025-03-14 19:36:03,072 - INFO - Diferencia de tiempo con el servidor: -389ms
+2025-03-14 19:36:03,072 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 19:36:03,073 - ERROR - Desviación promedio persistentemente alta: 389.00ms. Forzando reconexión...
+2025-03-14 19:36:03,073 - INFO - Conexión con Binance cerrada correctamente
+2025-03-14 19:36:07,973 - INFO - Diferencia de tiempo con el servidor: -390ms
+2025-03-14 19:36:09,202 - INFO - Diferencia de tiempo con el servidor: -390ms
+2025-03-14 19:36:09,202 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 19:36:09,202 - ERROR - Desviación promedio persistentemente alta: 389.33ms. Forzando reconexión...
+2025-03-14 19:36:09,203 - INFO - Conexión con Binance cerrada correctamente
+2025-03-14 19:36:27,486 - INFO - Diferencia de tiempo con el servidor: -390ms
+2025-03-14 19:36:28,769 - INFO - Diferencia de tiempo con el servidor: -391ms
+2025-03-14 19:36:28,769 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 19:36:28,769 - ERROR - Desviación promedio persistentemente alta: 391.00ms. Forzando reconexión...
+2025-03-14 19:36:28,770 - INFO - Conexión con Binance cerrada correctamente
+2025-03-14 19:36:32,037 - INFO - Diferencia de tiempo con el servidor: -397ms
+2025-03-14 19:36:32,976 - INFO - Diferencia de tiempo con el servidor: -399ms
+2025-03-14 19:36:32,976 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 19:36:32,977 - ERROR - Desviación promedio persistentemente alta: 395.00ms. Forzando reconexión...
+2025-03-14 19:36:32,977 - INFO - Conexión con Binance cerrada correctamente
+2025-03-14 19:36:38,206 - INFO - Diferencia de tiempo con el servidor: -390ms
+2025-03-14 19:36:39,104 - INFO - Diferencia de tiempo con el servidor: -391ms
+2025-03-14 19:36:39,104 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 19:36:39,104 - ERROR - Desviación promedio persistentemente alta: 393.67ms. Forzando reconexión...
+2025-03-14 19:36:39,105 - INFO - Conexión con Binance cerrada correctamente
+2025-03-14 19:36:48,675 - INFO - Diferencia de tiempo con el servidor: -393ms
+2025-03-14 19:36:49,900 - INFO - Diferencia de tiempo con el servidor: -393ms
+2025-03-14 19:36:49,900 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 19:36:49,901 - ERROR - Desviación promedio persistentemente alta: 393.50ms. Forzando reconexión...
+2025-03-14 19:36:49,901 - INFO - Conexión con Binance cerrada correctamente
+2025-03-14 19:37:10,247 - INFO - Diferencia de tiempo con el servidor: -395ms
+2025-03-14 19:37:11,165 - INFO - Diferencia de tiempo con el servidor: -394ms
+2025-03-14 19:37:11,165 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 19:37:11,166 - ERROR - Desviación promedio persistentemente alta: 394.00ms. Forzando reconexión...
+2025-03-14 19:37:11,166 - INFO - Conexión con Binance cerrada correctamente
+2025-03-14 19:37:13,779 - INFO - Diferencia de tiempo con el servidor: -393ms
+2025-03-14 19:37:14,681 - INFO - Diferencia de tiempo con el servidor: -394ms
+2025-03-14 19:37:14,681 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 19:37:14,681 - ERROR - Desviación promedio persistentemente alta: 394.00ms. Forzando reconexión...
+2025-03-14 19:37:14,682 - INFO - Conexión con Binance cerrada correctamente
+2025-03-14 19:38:27,547 - INFO - Diferencia de tiempo con el servidor: -399ms
+2025-03-14 19:38:28,482 - INFO - Diferencia de tiempo con el servidor: -398ms
+2025-03-14 19:38:28,483 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 19:38:28,483 - ERROR - Desviación promedio persistentemente alta: 398.00ms. Forzando reconexión...
+2025-03-14 19:38:28,484 - INFO - Conexión con Binance cerrada correctamente
+2025-03-14 19:38:31,059 - INFO - Diferencia de tiempo con el servidor: -398ms
+2025-03-14 19:38:31,961 - INFO - Diferencia de tiempo con el servidor: -399ms
+2025-03-14 19:38:31,961 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 19:38:31,962 - ERROR - Desviación promedio persistentemente alta: 398.50ms. Forzando reconexión...
+2025-03-14 19:38:31,962 - INFO - Conexión con Binance cerrada correctamente
+2025-03-14 19:38:36,859 - INFO - Diferencia de tiempo con el servidor: -399ms
+2025-03-14 19:38:38,414 - INFO - Diferencia de tiempo con el servidor: -399ms
+2025-03-14 19:38:38,415 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 19:38:38,415 - ERROR - Desviación promedio persistentemente alta: 398.67ms. Forzando reconexión...
+2025-03-14 19:38:38,415 - INFO - Conexión con Binance cerrada correctamente
+2025-03-14 19:39:48,020 - INFO - Diferencia de tiempo con el servidor: -405ms
+2025-03-14 19:39:49,267 - INFO - Diferencia de tiempo con el servidor: -414ms
+2025-03-14 19:39:49,267 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 19:39:49,267 - ERROR - Desviación promedio persistentemente alta: 414.00ms. Forzando reconexión...
+2025-03-14 19:39:49,268 - INFO - Conexión con Binance cerrada correctamente
+2025-03-14 19:39:51,851 - INFO - Diferencia de tiempo con el servidor: -405ms
+2025-03-14 19:39:52,762 - INFO - Diferencia de tiempo con el servidor: -405ms
+2025-03-14 19:39:52,762 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 19:39:52,762 - ERROR - Desviación promedio persistentemente alta: 409.50ms. Forzando reconexión...
+2025-03-14 19:39:52,763 - INFO - Conexión con Binance cerrada correctamente
+2025-03-14 19:42:58,554 - INFO - Diferencia de tiempo con el servidor: -415ms
+2025-03-14 19:42:58,555 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 19:42:58,555 - ERROR - Desviación promedio persistentemente alta: 415.00ms. Forzando reconexión...
+2025-03-14 19:42:58,555 - INFO - Conexión con Binance cerrada correctamente
+2025-03-14 19:43:02,371 - INFO - Diferencia de tiempo con el servidor: -417ms
+2025-03-14 19:43:02,371 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 19:43:02,371 - ERROR - Desviación promedio persistentemente alta: 416.00ms. Forzando reconexión...
+2025-03-14 19:43:02,372 - INFO - Conexión con Binance cerrada correctamente
+2025-03-14 19:43:08,862 - INFO - Diferencia de tiempo con el servidor: -426ms
+2025-03-14 19:43:08,863 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 19:43:08,863 - ERROR - Desviación promedio persistentemente alta: 419.33ms. Forzando reconexión...
+2025-03-14 19:43:08,863 - INFO - Conexión con Binance cerrada correctamente
+2025-03-14 19:43:19,712 - INFO - Diferencia de tiempo con el servidor: -417ms
+2025-03-14 19:43:19,712 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 19:43:19,713 - ERROR - Desviación promedio persistentemente alta: 418.75ms. Forzando reconexión...
+2025-03-14 19:43:19,713 - INFO - Conexión con Binance cerrada correctamente
+2025-03-14 19:43:37,866 - INFO - Diferencia de tiempo con el servidor: -419ms
+2025-03-14 19:43:37,866 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 19:43:37,867 - ERROR - Desviación promedio persistentemente alta: 418.80ms. Forzando reconexión...
+2025-03-14 19:43:37,867 - INFO - Conexión con Binance cerrada correctamente
+2025-03-14 19:58:23,143 - INFO - Diferencia de tiempo con el servidor: -474ms
+2025-03-14 19:58:23,144 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 19:58:23,144 - INFO - Iniciando sincronización inicial de tiempo
+2025-03-14 19:58:23,652 - INFO - Diferencia de tiempo con el servidor: -478ms
+2025-03-14 19:58:23,653 - WARNING - Intento de sincronización 1/3
+2025-03-14 19:58:23,828 - INFO - Diferencia de tiempo con el servidor: -475ms
+2025-03-14 19:58:23,828 - WARNING - Intento de sincronización 2/3
+2025-03-14 19:58:24,329 - INFO - Diferencia de tiempo con el servidor: -474ms
+2025-03-14 19:58:24,329 - WARNING - Intento de sincronización 3/3
+2025-03-14 19:58:24,504 - INFO - Diferencia de tiempo con el servidor: -475ms
+2025-03-14 19:58:24,504 - WARNING - Desincronización detectada: -475ms > 240.0ms. Monitoreando...
+2025-03-14 19:58:24,504 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 19:58:26,159 - INFO - Diferencia de tiempo con el servidor: -475ms
+2025-03-14 19:58:26,160 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 19:58:26,160 - WARNING - Intento de sincronización 1/3
+2025-03-14 19:58:26,796 - INFO - Diferencia de tiempo con el servidor: -579ms
+2025-03-14 19:58:26,796 - WARNING - Intento de sincronización 2/3
+2025-03-14 19:58:27,039 - INFO - Diferencia de tiempo con el servidor: -474ms
+2025-03-14 19:58:27,040 - WARNING - Intento de sincronización 3/3
+2025-03-14 19:58:27,230 - INFO - Diferencia de tiempo con el servidor: -488ms
+2025-03-14 19:58:27,231 - WARNING - Desincronización detectada: -488ms > 240.0ms. Monitoreando...
+2025-03-14 19:59:00,651 - INFO - Diferencia de tiempo con el servidor: -475ms
+2025-03-14 19:59:00,652 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 19:59:00,652 - INFO - Iniciando sincronización programada de tiempo
+2025-03-14 19:59:01,150 - INFO - Diferencia de tiempo con el servidor: -476ms
+2025-03-14 19:59:01,150 - WARNING - Intento de sincronización 1/3
+2025-03-14 19:59:01,658 - INFO - Diferencia de tiempo con el servidor: -477ms
+2025-03-14 19:59:01,658 - WARNING - Intento de sincronización 2/3
+2025-03-14 19:59:02,161 - INFO - Diferencia de tiempo con el servidor: -477ms
+2025-03-14 19:59:02,161 - WARNING - Intento de sincronización 3/3
+2025-03-14 19:59:02,337 - INFO - Diferencia de tiempo con el servidor: -476ms
+2025-03-14 19:59:02,338 - WARNING - Desincronización detectada: -476ms > 240.0ms. Monitoreando...
+2025-03-14 19:59:34,202 - INFO - Diferencia de tiempo con el servidor: -477ms
+2025-03-14 19:59:34,203 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 19:59:34,203 - INFO - Iniciando sincronización programada de tiempo
+2025-03-14 19:59:34,707 - INFO - Diferencia de tiempo con el servidor: -478ms
+2025-03-14 19:59:34,708 - WARNING - Intento de sincronización 1/3
+2025-03-14 19:59:34,884 - INFO - Diferencia de tiempo con el servidor: -479ms
+2025-03-14 19:59:34,884 - WARNING - Intento de sincronización 2/3
+2025-03-14 19:59:35,388 - INFO - Diferencia de tiempo con el servidor: -481ms
+2025-03-14 19:59:35,388 - WARNING - Intento de sincronización 3/3
+2025-03-14 19:59:35,566 - INFO - Diferencia de tiempo con el servidor: -481ms
+2025-03-14 19:59:35,566 - WARNING - Desincronización detectada: -481ms > 240.0ms. Monitoreando...
+2025-03-14 20:04:12,886 - INFO - Diferencia de tiempo con el servidor: -496ms
+2025-03-14 20:04:12,886 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:04:12,887 - INFO - Iniciando sincronización inicial de tiempo
+2025-03-14 20:04:13,383 - INFO - Diferencia de tiempo con el servidor: -495ms
+2025-03-14 20:04:13,383 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:04:13,559 - INFO - Diferencia de tiempo con el servidor: -496ms
+2025-03-14 20:04:13,559 - WARNING - Intento de sincronización 2/3
+2025-03-14 20:04:13,732 - INFO - Diferencia de tiempo con el servidor: -494ms
+2025-03-14 20:04:13,732 - WARNING - Intento de sincronización 3/3
+2025-03-14 20:04:13,907 - INFO - Diferencia de tiempo con el servidor: -496ms
+2025-03-14 20:04:13,907 - WARNING - Desincronización detectada: -496ms > 240.0ms. Monitoreando...
+2025-03-14 20:04:13,908 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 20:04:15,832 - INFO - Diferencia de tiempo con el servidor: -499ms
+2025-03-14 20:04:15,833 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:04:15,833 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:04:16,008 - INFO - Diferencia de tiempo con el servidor: -496ms
+2025-03-14 20:04:16,008 - WARNING - Intento de sincronización 2/3
+2025-03-14 20:04:16,181 - INFO - Diferencia de tiempo con el servidor: -495ms
+2025-03-14 20:04:16,181 - WARNING - Intento de sincronización 3/3
+2025-03-14 20:04:16,682 - INFO - Diferencia de tiempo con el servidor: -495ms
+2025-03-14 20:04:16,683 - WARNING - Desincronización detectada: -495ms > 240.0ms. Monitoreando...
+2025-03-14 20:04:16,872 - ERROR - Error en initialize_indicators: 'LONG_TIMEFRAME'
+2025-03-14 20:04:19,397 - ERROR - Error en initialize_indicators: 'LONG_TIMEFRAME'
+2025-03-14 20:04:23,927 - ERROR - Error en initialize_indicators: 'LONG_TIMEFRAME'
+2025-03-14 20:04:32,459 - ERROR - Error en initialize_indicators: 'LONG_TIMEFRAME'
+2025-03-14 20:04:49,760 - INFO - Diferencia de tiempo con el servidor: -498ms
+2025-03-14 20:04:49,760 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:04:49,760 - INFO - Iniciando sincronización programada de tiempo
+2025-03-14 20:04:50,265 - INFO - Diferencia de tiempo con el servidor: -499ms
+2025-03-14 20:04:50,265 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:04:50,764 - INFO - Diferencia de tiempo con el servidor: -499ms
+2025-03-14 20:04:50,764 - WARNING - Intento de sincronización 2/3
+2025-03-14 20:04:50,943 - INFO - Diferencia de tiempo con el servidor: -499ms
+2025-03-14 20:04:50,943 - WARNING - Intento de sincronización 3/3
+2025-03-14 20:04:51,125 - INFO - Diferencia de tiempo con el servidor: -503ms
+2025-03-14 20:04:51,126 - WARNING - Desincronización detectada: -503ms > 240.0ms. Monitoreando...
+2025-03-14 20:04:51,644 - ERROR - Error en initialize_indicators: 'LONG_TIMEFRAME'
+2025-03-14 20:05:23,299 - INFO - Diferencia de tiempo con el servidor: -499ms
+2025-03-14 20:05:23,299 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:05:23,300 - INFO - Iniciando sincronización programada de tiempo
+2025-03-14 20:05:23,805 - INFO - Diferencia de tiempo con el servidor: -502ms
+2025-03-14 20:05:23,805 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:05:24,308 - INFO - Diferencia de tiempo con el servidor: -499ms
+2025-03-14 20:05:24,309 - WARNING - Intento de sincronización 2/3
+2025-03-14 20:05:24,817 - INFO - Diferencia de tiempo con el servidor: -500ms
+2025-03-14 20:05:24,818 - WARNING - Intento de sincronización 3/3
+2025-03-14 20:05:25,009 - INFO - Diferencia de tiempo con el servidor: -516ms
+2025-03-14 20:05:25,009 - WARNING - Desincronización detectada: -516ms > 240.0ms. Monitoreando...
+2025-03-14 20:05:25,561 - ERROR - Error en initialize_indicators: 'LONG_TIMEFRAME'
+2025-03-14 20:07:47,071 - INFO - Diferencia de tiempo con el servidor: -510ms
+2025-03-14 20:07:47,071 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:07:47,072 - INFO - Iniciando sincronización inicial de tiempo
+2025-03-14 20:07:47,245 - INFO - Diferencia de tiempo con el servidor: -509ms
+2025-03-14 20:07:47,246 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:07:47,418 - INFO - Diferencia de tiempo con el servidor: -508ms
+2025-03-14 20:07:47,419 - WARNING - Intento de sincronización 2/3
+2025-03-14 20:07:47,920 - INFO - Diferencia de tiempo con el servidor: -510ms
+2025-03-14 20:07:47,920 - WARNING - Intento de sincronización 3/3
+2025-03-14 20:07:48,097 - INFO - Diferencia de tiempo con el servidor: -509ms
+2025-03-14 20:07:48,097 - WARNING - Desincronización detectada: -509ms > 240.0ms. Monitoreando...
+2025-03-14 20:07:48,098 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 20:07:50,008 - INFO - Diferencia de tiempo con el servidor: -508ms
+2025-03-14 20:07:50,009 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:07:50,009 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:07:50,508 - INFO - Diferencia de tiempo con el servidor: -509ms
+2025-03-14 20:07:50,508 - WARNING - Intento de sincronización 2/3
+2025-03-14 20:07:51,012 - INFO - Diferencia de tiempo con el servidor: -510ms
+2025-03-14 20:07:51,012 - WARNING - Intento de sincronización 3/3
+2025-03-14 20:07:51,189 - INFO - Diferencia de tiempo con el servidor: -509ms
+2025-03-14 20:07:51,189 - WARNING - Desincronización detectada: -509ms > 240.0ms. Monitoreando...
+2025-03-14 20:07:51,717 - ERROR - Error en initialize_indicators: 'LONG_TIMEFRAME'
+2025-03-14 20:07:54,249 - ERROR - Error en initialize_indicators: 'LONG_TIMEFRAME'
+2025-03-14 20:07:58,775 - ERROR - Error en initialize_indicators: 'LONG_TIMEFRAME'
+2025-03-14 20:09:10,765 - INFO - Diferencia de tiempo con el servidor: -515ms
+2025-03-14 20:09:10,765 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:09:10,766 - INFO - Iniciando sincronización inicial de tiempo
+2025-03-14 20:09:11,264 - INFO - Diferencia de tiempo con el servidor: -514ms
+2025-03-14 20:09:11,265 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:09:11,770 - INFO - Diferencia de tiempo con el servidor: -514ms
+2025-03-14 20:09:11,770 - WARNING - Intento de sincronización 2/3
+2025-03-14 20:09:11,944 - INFO - Diferencia de tiempo con el servidor: -515ms
+2025-03-14 20:09:11,945 - WARNING - Intento de sincronización 3/3
+2025-03-14 20:09:12,121 - INFO - Diferencia de tiempo con el servidor: -514ms
+2025-03-14 20:09:12,122 - WARNING - Desincronización detectada: -514ms > 240.0ms. Monitoreando...
+2025-03-14 20:09:12,122 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 20:09:13,715 - INFO - Diferencia de tiempo con el servidor: -515ms
+2025-03-14 20:09:13,715 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:09:13,715 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:09:13,902 - INFO - Diferencia de tiempo con el servidor: -528ms
+2025-03-14 20:09:13,903 - WARNING - Intento de sincronización 2/3
+2025-03-14 20:09:14,398 - INFO - Diferencia de tiempo con el servidor: -513ms
+2025-03-14 20:09:14,399 - WARNING - Intento de sincronización 3/3
+2025-03-14 20:09:14,575 - INFO - Diferencia de tiempo con el servidor: -515ms
+2025-03-14 20:09:14,576 - WARNING - Desincronización detectada: -515ms > 240.0ms. Monitoreando...
+2025-03-14 20:09:15,274 - ERROR - Error en initialize_indicators: 'SHORT_TIMEFRAME'
+2025-03-14 20:09:18,298 - ERROR - Error en initialize_indicators: 'SHORT_TIMEFRAME'
+2025-03-14 20:09:23,337 - ERROR - Error en initialize_indicators: 'SHORT_TIMEFRAME'
+2025-03-14 20:12:31,703 - INFO - Diferencia de tiempo con el servidor: -526ms
+2025-03-14 20:12:31,703 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:12:31,703 - INFO - Iniciando sincronización inicial de tiempo
+2025-03-14 20:12:32,205 - INFO - Diferencia de tiempo con el servidor: -526ms
+2025-03-14 20:12:32,205 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:12:32,705 - INFO - Diferencia de tiempo con el servidor: -527ms
+2025-03-14 20:12:32,705 - WARNING - Intento de sincronización 2/3
+2025-03-14 20:12:32,882 - INFO - Diferencia de tiempo con el servidor: -529ms
+2025-03-14 20:12:32,882 - WARNING - Intento de sincronización 3/3
+2025-03-14 20:12:33,383 - INFO - Diferencia de tiempo con el servidor: -528ms
+2025-03-14 20:12:33,383 - WARNING - Desincronización detectada: -528ms > 240.0ms. Monitoreando...
+2025-03-14 20:12:33,383 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 20:12:34,975 - INFO - Diferencia de tiempo con el servidor: -527ms
+2025-03-14 20:12:34,975 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:12:34,976 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:12:35,151 - INFO - Diferencia de tiempo con el servidor: -527ms
+2025-03-14 20:12:35,151 - WARNING - Intento de sincronización 2/3
+2025-03-14 20:12:35,329 - INFO - Diferencia de tiempo con el servidor: -531ms
+2025-03-14 20:12:35,330 - WARNING - Intento de sincronización 3/3
+2025-03-14 20:12:35,832 - INFO - Diferencia de tiempo con el servidor: -528ms
+2025-03-14 20:12:35,832 - WARNING - Desincronización detectada: -528ms > 240.0ms. Monitoreando...
+2025-03-14 20:12:37,386 - INFO - ATR inicializado - Largo: 823.86305892, Corto: 108.52309997
+2025-03-14 20:12:38,072 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:12:44,312 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:12:50,904 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:12:57,522 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:13:04,092 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:13:10,388 - INFO - Diferencia de tiempo con el servidor: -529ms
+2025-03-14 20:13:10,388 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:13:10,388 - INFO - Iniciando sincronización programada de tiempo
+2025-03-14 20:13:10,890 - INFO - Diferencia de tiempo con el servidor: -530ms
+2025-03-14 20:13:10,890 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:13:11,407 - INFO - Diferencia de tiempo con el servidor: -545ms
+2025-03-14 20:13:11,408 - WARNING - Intento de sincronización 2/3
+2025-03-14 20:13:11,913 - INFO - Diferencia de tiempo con el servidor: -530ms
+2025-03-14 20:13:11,913 - WARNING - Intento de sincronización 3/3
+2025-03-14 20:13:12,098 - INFO - Diferencia de tiempo con el servidor: -539ms
+2025-03-14 20:13:12,098 - WARNING - Desincronización detectada: -539ms > 240.0ms. Monitoreando...
+2025-03-14 20:13:13,618 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:14:20,201 - INFO - Diferencia de tiempo con el servidor: -533ms
+2025-03-14 20:14:20,201 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:14:20,202 - INFO - Iniciando sincronización inicial de tiempo
+2025-03-14 20:14:20,701 - INFO - Diferencia de tiempo con el servidor: -534ms
+2025-03-14 20:14:20,702 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:14:21,208 - INFO - Diferencia de tiempo con el servidor: -535ms
+2025-03-14 20:14:21,208 - WARNING - Intento de sincronización 2/3
+2025-03-14 20:14:21,382 - INFO - Diferencia de tiempo con el servidor: -534ms
+2025-03-14 20:14:21,382 - WARNING - Intento de sincronización 3/3
+2025-03-14 20:14:21,881 - INFO - Diferencia de tiempo con el servidor: -534ms
+2025-03-14 20:14:21,881 - WARNING - Desincronización detectada: -534ms > 240.0ms. Monitoreando...
+2025-03-14 20:14:21,881 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 20:14:23,475 - INFO - Diferencia de tiempo con el servidor: -534ms
+2025-03-14 20:14:23,476 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:14:23,476 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:14:23,654 - INFO - Diferencia de tiempo con el servidor: -537ms
+2025-03-14 20:14:23,654 - WARNING - Intento de sincronización 2/3
+2025-03-14 20:14:24,159 - INFO - Diferencia de tiempo con el servidor: -535ms
+2025-03-14 20:14:24,159 - WARNING - Intento de sincronización 3/3
+2025-03-14 20:14:24,336 - INFO - Diferencia de tiempo con el servidor: -535ms
+2025-03-14 20:14:24,336 - WARNING - Desincronización detectada: -535ms > 240.0ms. Monitoreando...
+2025-03-14 20:14:25,549 - INFO - ATR inicializado - Largo: 823.86305892, Corto: 113.78976664
+2025-03-14 20:14:25,903 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:14:32,152 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:14:38,776 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:14:45,018 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:14:51,264 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:14:57,882 - INFO - Diferencia de tiempo con el servidor: -537ms
+2025-03-14 20:14:57,882 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:14:57,883 - INFO - Iniciando sincronización programada de tiempo
+2025-03-14 20:14:58,381 - INFO - Diferencia de tiempo con el servidor: -536ms
+2025-03-14 20:14:58,381 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:14:58,885 - INFO - Diferencia de tiempo con el servidor: -537ms
+2025-03-14 20:14:58,885 - WARNING - Intento de sincronización 2/3
+2025-03-14 20:14:59,389 - INFO - Diferencia de tiempo con el servidor: -537ms
+2025-03-14 20:14:59,389 - WARNING - Intento de sincronización 3/3
+2025-03-14 20:14:59,562 - INFO - Diferencia de tiempo con el servidor: -536ms
+2025-03-14 20:14:59,562 - WARNING - Desincronización detectada: -536ms > 240.0ms. Monitoreando...
+2025-03-14 20:15:00,760 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:15:06,994 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:17:08,703 - INFO - Diferencia de tiempo con el servidor: -544ms
+2025-03-14 20:17:08,703 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:17:08,704 - INFO - Iniciando sincronización inicial de tiempo
+2025-03-14 20:17:08,879 - INFO - Diferencia de tiempo con el servidor: -545ms
+2025-03-14 20:17:08,879 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:17:09,382 - INFO - Diferencia de tiempo con el servidor: -545ms
+2025-03-14 20:17:09,382 - WARNING - Intento de sincronización 2/3
+2025-03-14 20:17:09,557 - INFO - Diferencia de tiempo con el servidor: -545ms
+2025-03-14 20:17:09,557 - WARNING - Intento de sincronización 3/3
+2025-03-14 20:17:10,062 - INFO - Diferencia de tiempo con el servidor: -545ms
+2025-03-14 20:17:10,062 - WARNING - Desincronización detectada: -545ms > 240.0ms. Monitoreando...
+2025-03-14 20:17:10,063 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 20:17:11,485 - INFO - ATR inicializado - Largo: 825.95639225, Corto: 110.35965668
+2025-03-14 20:17:12,355 - INFO - Diferencia de tiempo con el servidor: -544ms
+2025-03-14 20:17:12,356 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:17:12,356 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:17:12,531 - INFO - Diferencia de tiempo con el servidor: -545ms
+2025-03-14 20:17:12,531 - WARNING - Intento de sincronización 2/3
+2025-03-14 20:17:12,706 - INFO - Diferencia de tiempo con el servidor: -545ms
+2025-03-14 20:17:12,706 - WARNING - Intento de sincronización 3/3
+2025-03-14 20:17:12,885 - INFO - Diferencia de tiempo con el servidor: -549ms
+2025-03-14 20:17:12,885 - WARNING - Desincronización detectada: -549ms > 240.0ms. Monitoreando...
+2025-03-14 20:17:13,438 - INFO - ATR inicializado - Largo: 825.95639225, Corto: 110.35965668
+2025-03-14 20:17:13,791 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:17:20,362 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:17:26,596 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:17:33,161 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:17:39,723 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:17:46,351 - INFO - Diferencia de tiempo con el servidor: -547ms
+2025-03-14 20:17:46,351 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:17:46,351 - INFO - Iniciando sincronización programada de tiempo
+2025-03-14 20:17:46,852 - INFO - Diferencia de tiempo con el servidor: -547ms
+2025-03-14 20:17:46,852 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:17:47,354 - INFO - Diferencia de tiempo con el servidor: -548ms
+2025-03-14 20:17:47,354 - WARNING - Intento de sincronización 2/3
+2025-03-14 20:17:47,529 - INFO - Diferencia de tiempo con el servidor: -547ms
+2025-03-14 20:17:47,529 - WARNING - Intento de sincronización 3/3
+2025-03-14 20:17:48,027 - INFO - Diferencia de tiempo con el servidor: -547ms
+2025-03-14 20:17:48,028 - WARNING - Desincronización detectada: -547ms > 240.0ms. Monitoreando...
+2025-03-14 20:17:49,222 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:20:47,775 - INFO - Diferencia de tiempo con el servidor: -558ms
+2025-03-14 20:20:47,776 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:20:47,776 - INFO - Iniciando sincronización inicial de tiempo
+2025-03-14 20:20:47,953 - INFO - Diferencia de tiempo con el servidor: -558ms
+2025-03-14 20:20:47,953 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:20:48,132 - INFO - Diferencia de tiempo con el servidor: -563ms
+2025-03-14 20:20:48,132 - WARNING - Intento de sincronización 2/3
+2025-03-14 20:20:48,635 - INFO - Diferencia de tiempo con el servidor: -558ms
+2025-03-14 20:20:48,635 - WARNING - Intento de sincronización 3/3
+2025-03-14 20:20:49,137 - INFO - Diferencia de tiempo con el servidor: -558ms
+2025-03-14 20:20:49,137 - WARNING - Desincronización detectada: -558ms > 240.0ms. Monitoreando...
+2025-03-14 20:20:49,138 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 20:20:50,559 - INFO - ATR inicializado - Largo: 827.15639225, Corto: 104.51731683
+2025-03-14 20:20:51,747 - INFO - Diferencia de tiempo con el servidor: -558ms
+2025-03-14 20:20:51,747 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:20:51,747 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:20:52,249 - INFO - Diferencia de tiempo con el servidor: -558ms
+2025-03-14 20:20:52,250 - WARNING - Intento de sincronización 2/3
+2025-03-14 20:20:52,426 - INFO - Diferencia de tiempo con el servidor: -558ms
+2025-03-14 20:20:52,426 - WARNING - Intento de sincronización 3/3
+2025-03-14 20:20:52,612 - INFO - Diferencia de tiempo con el servidor: -568ms
+2025-03-14 20:20:52,613 - WARNING - Desincronización detectada: -568ms > 240.0ms. Monitoreando...
+2025-03-14 20:20:54,156 - INFO - ATR inicializado - Largo: 827.15639225, Corto: 104.51731683
+2025-03-14 20:20:54,506 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:21:01,072 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:21:07,639 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:24:21,205 - INFO - Diferencia de tiempo con el servidor: -572ms
+2025-03-14 20:24:21,206 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:24:21,206 - INFO - Iniciando sincronización inicial de tiempo
+2025-03-14 20:24:21,710 - INFO - Diferencia de tiempo con el servidor: -572ms
+2025-03-14 20:24:21,711 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:24:22,216 - INFO - Diferencia de tiempo con el servidor: -571ms
+2025-03-14 20:24:22,217 - WARNING - Intento de sincronización 2/3
+2025-03-14 20:24:22,398 - INFO - Diferencia de tiempo con el servidor: -576ms
+2025-03-14 20:24:22,399 - WARNING - Intento de sincronización 3/3
+2025-03-14 20:24:22,904 - INFO - Diferencia de tiempo con el servidor: -576ms
+2025-03-14 20:24:22,904 - WARNING - Desincronización detectada: -576ms > 240.0ms. Monitoreando...
+2025-03-14 20:24:22,905 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 20:24:24,323 - INFO - ATR inicializado - Largo: 827.91639225, Corto: 106.48398350
+2025-03-14 20:24:25,535 - INFO - Diferencia de tiempo con el servidor: -572ms
+2025-03-14 20:24:25,535 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:24:25,536 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:24:25,711 - INFO - Diferencia de tiempo con el servidor: -572ms
+2025-03-14 20:24:25,712 - WARNING - Intento de sincronización 2/3
+2025-03-14 20:24:26,216 - INFO - Diferencia de tiempo con el servidor: -572ms
+2025-03-14 20:24:26,216 - WARNING - Intento de sincronización 3/3
+2025-03-14 20:24:26,391 - INFO - Diferencia de tiempo con el servidor: -572ms
+2025-03-14 20:24:26,392 - WARNING - Desincronización detectada: -572ms > 240.0ms. Monitoreando...
+2025-03-14 20:24:27,266 - INFO - ATR inicializado - Largo: 827.91639225, Corto: 106.48398350
+2025-03-14 20:24:27,953 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:24:34,527 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:24:41,096 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:24:47,019 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:24:53,267 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:24:59,900 - INFO - Diferencia de tiempo con el servidor: -576ms
+2025-03-14 20:24:59,901 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:24:59,901 - INFO - Iniciando sincronización programada de tiempo
+2025-03-14 20:25:00,402 - INFO - Diferencia de tiempo con el servidor: -574ms
+2025-03-14 20:25:00,402 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:25:00,907 - INFO - Diferencia de tiempo con el servidor: -575ms
+2025-03-14 20:25:00,907 - WARNING - Intento de sincronización 2/3
+2025-03-14 20:25:01,082 - INFO - Diferencia de tiempo con el servidor: -573ms
+2025-03-14 20:25:01,083 - WARNING - Intento de sincronización 3/3
+2025-03-14 20:25:01,585 - INFO - Diferencia de tiempo con el servidor: -573ms
+2025-03-14 20:25:01,586 - WARNING - Desincronización detectada: -573ms > 240.0ms. Monitoreando...
+2025-03-14 20:25:02,780 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:25:09,354 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:25:15,943 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:25:22,192 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:25:28,764 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:25:35,380 - INFO - Diferencia de tiempo con el servidor: -577ms
+2025-03-14 20:25:35,380 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:25:35,380 - INFO - Iniciando sincronización programada de tiempo
+2025-03-14 20:25:35,882 - INFO - Diferencia de tiempo con el servidor: -576ms
+2025-03-14 20:25:35,882 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:25:36,385 - INFO - Diferencia de tiempo con el servidor: -576ms
+2025-03-14 20:25:36,385 - WARNING - Intento de sincronización 2/3
+2025-03-14 20:25:36,559 - INFO - Diferencia de tiempo con el servidor: -575ms
+2025-03-14 20:25:36,559 - WARNING - Intento de sincronización 3/3
+2025-03-14 20:25:36,738 - INFO - Diferencia de tiempo con el servidor: -580ms
+2025-03-14 20:25:36,738 - WARNING - Desincronización detectada: -580ms > 240.0ms. Monitoreando...
+2025-03-14 20:25:37,942 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:25:44,174 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:25:50,445 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:25:57,006 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:26:03,616 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:26:09,925 - INFO - Diferencia de tiempo con el servidor: -580ms
+2025-03-14 20:26:09,925 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:26:09,926 - INFO - Iniciando sincronización programada de tiempo
+2025-03-14 20:26:10,426 - INFO - Diferencia de tiempo con el servidor: -578ms
+2025-03-14 20:26:10,427 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:26:10,925 - INFO - Diferencia de tiempo con el servidor: -578ms
+2025-03-14 20:26:10,925 - WARNING - Intento de sincronización 2/3
+2025-03-14 20:26:11,100 - INFO - Diferencia de tiempo con el servidor: -578ms
+2025-03-14 20:26:11,100 - WARNING - Intento de sincronización 3/3
+2025-03-14 20:26:11,607 - INFO - Diferencia de tiempo con el servidor: -579ms
+2025-03-14 20:26:11,608 - WARNING - Desincronización detectada: -579ms > 240.0ms. Monitoreando...
+2025-03-14 20:26:12,483 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:27:04,282 - INFO - Diferencia de tiempo con el servidor: -582ms
+2025-03-14 20:27:04,283 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:27:04,283 - INFO - Iniciando sincronización inicial de tiempo
+2025-03-14 20:27:04,464 - INFO - Diferencia de tiempo con el servidor: -583ms
+2025-03-14 20:27:04,464 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:27:04,640 - INFO - Diferencia de tiempo con el servidor: -582ms
+2025-03-14 20:27:04,641 - WARNING - Intento de sincronización 2/3
+2025-03-14 20:27:04,816 - INFO - Diferencia de tiempo con el servidor: -582ms
+2025-03-14 20:27:04,816 - WARNING - Intento de sincronización 3/3
+2025-03-14 20:27:05,313 - INFO - Diferencia de tiempo con el servidor: -580ms
+2025-03-14 20:27:05,314 - WARNING - Desincronización detectada: -580ms > 240.0ms. Monitoreando...
+2025-03-14 20:27:05,314 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 20:27:06,729 - INFO - ATR inicializado - Largo: 828.28972558, Corto: 102.88943237
+2025-03-14 20:27:08,253 - INFO - Diferencia de tiempo con el servidor: -581ms
+2025-03-14 20:27:08,253 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:27:08,253 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:27:08,429 - INFO - Diferencia de tiempo con el servidor: -582ms
+2025-03-14 20:27:08,430 - WARNING - Intento de sincronización 2/3
+2025-03-14 20:27:08,933 - INFO - Diferencia de tiempo con el servidor: -582ms
+2025-03-14 20:27:08,933 - WARNING - Intento de sincronización 3/3
+2025-03-14 20:27:09,108 - INFO - Diferencia de tiempo con el servidor: -583ms
+2025-03-14 20:27:09,109 - WARNING - Desincronización detectada: -583ms > 240.0ms. Monitoreando...
+2025-03-14 20:27:10,139 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:27:10,502 - INFO - ATR inicializado - Largo: 828.28972558, Corto: 102.88943237
+2025-03-14 20:27:11,524 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:27:17,259 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:27:18,268 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:27:24,370 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:27:25,371 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:27:31,433 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:27:32,109 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:27:38,396 - INFO - Diferencia de tiempo con el servidor: -584ms
+2025-03-14 20:27:38,397 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:27:38,397 - INFO - Iniciando sincronización programada de tiempo
+2025-03-14 20:27:38,901 - INFO - Diferencia de tiempo con el servidor: -584ms
+2025-03-14 20:27:38,901 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:27:39,080 - INFO - Diferencia de tiempo con el servidor: -587ms
+2025-03-14 20:27:39,081 - WARNING - Intento de sincronización 2/3
+2025-03-14 20:27:39,580 - INFO - Diferencia de tiempo con el servidor: -583ms
+2025-03-14 20:27:39,581 - WARNING - Intento de sincronización 3/3
+2025-03-14 20:27:39,754 - INFO - Diferencia de tiempo con el servidor: -583ms
+2025-03-14 20:27:39,754 - WARNING - Desincronización detectada: -583ms > 240.0ms. Monitoreando...
+2025-03-14 20:27:40,774 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:27:41,787 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:27:47,844 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:27:48,531 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:27:54,596 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:27:55,637 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:28:01,697 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:28:02,704 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:28:09,321 - INFO - Diferencia de tiempo con el servidor: -586ms
+2025-03-14 20:28:09,321 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:28:09,321 - INFO - Iniciando sincronización programada de tiempo
+2025-03-14 20:28:09,827 - INFO - Diferencia de tiempo con el servidor: -588ms
+2025-03-14 20:28:09,827 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:28:10,004 - INFO - Diferencia de tiempo con el servidor: -587ms
+2025-03-14 20:28:10,004 - WARNING - Intento de sincronización 2/3
+2025-03-14 20:28:10,516 - INFO - Diferencia de tiempo con el servidor: -588ms
+2025-03-14 20:28:10,516 - WARNING - Intento de sincronización 3/3
+2025-03-14 20:28:11,020 - INFO - Diferencia de tiempo con el servidor: -585ms
+2025-03-14 20:28:11,021 - WARNING - Desincronización detectada: -585ms > 240.0ms. Monitoreando...
+2025-03-14 20:28:12,045 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:28:12,744 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:31:16,801 - INFO - Diferencia de tiempo con el servidor: -597ms
+2025-03-14 20:31:16,801 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:31:16,801 - INFO - Iniciando sincronización inicial de tiempo
+2025-03-14 20:31:16,977 - INFO - Diferencia de tiempo con el servidor: -598ms
+2025-03-14 20:31:16,978 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:31:17,157 - INFO - Diferencia de tiempo con el servidor: -599ms
+2025-03-14 20:31:17,157 - WARNING - Intento de sincronización 2/3
+2025-03-14 20:31:17,661 - INFO - Diferencia de tiempo con el servidor: -598ms
+2025-03-14 20:31:17,662 - WARNING - Intento de sincronización 3/3
+2025-03-14 20:31:18,165 - INFO - Diferencia de tiempo con el servidor: -598ms
+2025-03-14 20:31:18,166 - WARNING - Desincronización detectada: -598ms > 240.0ms. Monitoreando...
+2025-03-14 20:31:18,166 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 20:31:19,581 - INFO - ATR inicializado - Largo: 830.34220195, Corto: 111.61522365
+2025-03-14 20:31:21,114 - INFO - Diferencia de tiempo con el servidor: -597ms
+2025-03-14 20:31:21,115 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:31:21,115 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:31:21,291 - INFO - Diferencia de tiempo con el servidor: -599ms
+2025-03-14 20:31:21,292 - WARNING - Intento de sincronización 2/3
+2025-03-14 20:31:21,467 - INFO - Diferencia de tiempo con el servidor: -597ms
+2025-03-14 20:31:21,468 - WARNING - Intento de sincronización 3/3
+2025-03-14 20:31:21,643 - INFO - Diferencia de tiempo con el servidor: -598ms
+2025-03-14 20:31:21,643 - WARNING - Desincronización detectada: -598ms > 240.0ms. Monitoreando...
+2025-03-14 20:31:22,662 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:31:23,356 - INFO - ATR inicializado - Largo: 830.34220195, Corto: 111.61522365
+2025-03-14 20:31:23,713 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:31:29,771 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:31:30,782 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:31:36,535 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:31:37,543 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:31:43,672 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:31:44,678 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:31:51,307 - INFO - Diferencia de tiempo con el servidor: -600ms
+2025-03-14 20:31:51,307 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:31:51,308 - INFO - Iniciando sincronización programada de tiempo
+2025-03-14 20:31:51,823 - INFO - Diferencia de tiempo con el servidor: -608ms
+2025-03-14 20:31:51,823 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:31:51,823 - ERROR - Desincronización crítica: -608ms > 600.0ms
+2025-03-14 20:31:51,824 - INFO - Conexión con Binance cerrada correctamente
+2025-03-14 20:31:51,824 - ERROR - Error inesperado al sincronizar tiempo: Session is closed
+2025-03-14 20:31:51,824 - WARNING - Reintentando 1/3 en 1s
+2025-03-14 20:31:52,829 - ERROR - Error inesperado al sincronizar tiempo: Session is closed
+2025-03-14 20:31:52,829 - WARNING - Reintentando 2/3 en 2s
+2025-03-14 20:31:54,832 - ERROR - Error inesperado al sincronizar tiempo: Session is closed
+2025-03-14 20:31:54,833 - WARNING - Reintentando 3/3 en 4s
+2025-03-14 20:31:58,848 - ERROR - Fallo en la sincronización de tiempo después de 3 intentos
+2025-03-14 20:31:58,849 - ERROR - Error inesperado al verificar conexión: Session is closed
+2025-03-14 20:31:58,849 - INFO - Conexión con Binance cerrada correctamente
+2025-03-14 20:32:01,305 - INFO - Diferencia de tiempo con el servidor: -600ms
+2025-03-14 20:32:01,305 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:32:01,305 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:32:01,481 - INFO - Diferencia de tiempo con el servidor: -601ms
+2025-03-14 20:32:01,481 - ERROR - Desincronización empeoró, reconectando
+2025-03-14 20:32:04,358 - INFO - Diferencia de tiempo con el servidor: -600ms
+2025-03-14 20:32:04,359 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:32:04,359 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:32:04,866 - INFO - Diferencia de tiempo con el servidor: -602ms
+2025-03-14 20:32:04,867 - ERROR - Desincronización empeoró, reconectando
+2025-03-14 20:32:04,869 - INFO - Conexión con Binance cerrada correctamente
+2025-03-14 20:32:07,342 - INFO - Diferencia de tiempo con el servidor: -601ms
+2025-03-14 20:32:07,342 - INFO - Umbrales ajustados dinámicamente. Factor: 1.20
+2025-03-14 20:32:07,342 - INFO - Iniciando sincronización programada de tiempo
+2025-03-14 20:32:07,518 - INFO - Diferencia de tiempo con el servidor: -601ms
+2025-03-14 20:32:07,519 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:32:07,519 - ERROR - Desincronización crítica: -601ms > 600.0ms
+2025-03-14 20:32:07,520 - INFO - Conexión con Binance cerrada correctamente
+2025-03-14 20:32:07,520 - ERROR - Error inesperado al sincronizar tiempo: Session is closed
+2025-03-14 20:32:07,520 - WARNING - Reintentando 1/3 en 1s
+2025-03-14 20:32:08,528 - ERROR - Error inesperado al sincronizar tiempo: Session is closed
+2025-03-14 20:32:08,529 - WARNING - Reintentando 2/3 en 2s
+2025-03-14 20:32:10,535 - ERROR - Error inesperado al sincronizar tiempo: Session is closed
+2025-03-14 20:32:10,536 - WARNING - Reintentando 3/3 en 4s
+2025-03-14 20:32:14,538 - ERROR - Fallo en la sincronización de tiempo después de 3 intentos
+2025-03-14 20:32:14,539 - ERROR - Error inesperado al verificar conexión: Session is closed
+2025-03-14 20:32:18,548 - ERROR - Error inesperado al verificar conexión: Session is closed
+2025-03-14 20:32:18,549 - INFO - Conexión con Binance cerrada correctamente
+2025-03-14 20:37:55,542 - INFO - Diferencia de tiempo con el servidor: -624ms
+2025-03-14 20:37:55,543 - INFO - Iniciando sincronización inicial de tiempo
+2025-03-14 20:37:55,721 - INFO - Diferencia de tiempo con el servidor: -626ms
+2025-03-14 20:37:55,722 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 20:37:57,466 - INFO - ATR inicializado - Largo: 830.34220195, Corto: 115.02126021
+2025-03-14 20:37:58,667 - INFO - Diferencia de tiempo con el servidor: -626ms
+2025-03-14 20:37:59,685 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:38:00,060 - INFO - ATR inicializado - Largo: 830.34220195, Corto: 115.02126021
+2025-03-14 20:38:00,408 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:38:06,477 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:38:07,485 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:38:13,553 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:38:14,561 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:39:31,217 - INFO - Diferencia de tiempo con el servidor: -628ms
+2025-03-14 20:39:31,218 - INFO - Iniciando sincronización inicial de tiempo
+2025-03-14 20:39:31,724 - INFO - Diferencia de tiempo con el servidor: -630ms
+2025-03-14 20:39:31,725 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 20:39:33,129 - INFO - ATR inicializado - Largo: 830.34220195, Corto: 115.82126021
+2025-03-14 20:39:34,327 - INFO - Diferencia de tiempo con el servidor: -630ms
+2025-03-14 20:39:35,021 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:39:35,710 - INFO - ATR inicializado - Largo: 830.34220195, Corto: 115.82126021
+2025-03-14 20:39:36,708 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:39:42,767 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:39:43,773 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:39:49,847 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:39:50,529 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:39:56,281 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:39:57,284 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:40:03,355 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:40:04,047 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:51:42,648 - INFO - Diferencia de tiempo con el servidor: -678ms
+2025-03-14 20:51:42,649 - INFO - Iniciando sincronización inicial de tiempo
+2025-03-14 20:51:43,149 - INFO - Diferencia de tiempo con el servidor: -675ms
+2025-03-14 20:51:43,149 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 20:51:44,502 - INFO - ATR inicializado - Largo: 840.79553528, Corto: 94.85568204
+2025-03-14 20:51:46,035 - INFO - Diferencia de tiempo con el servidor: -675ms
+2025-03-14 20:51:46,922 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:51:48,295 - INFO - ATR inicializado - Largo: 840.79553528, Corto: 94.85568204
+2025-03-14 20:51:49,142 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:51:55,538 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:51:56,709 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:52:02,943 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:52:03,301 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:52:09,540 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:52:10,716 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:54:23,470 - INFO - Diferencia de tiempo con el servidor: -686ms
+2025-03-14 20:54:23,471 - INFO - Iniciando sincronización inicial de tiempo
+2025-03-14 20:54:23,648 - INFO - Diferencia de tiempo con el servidor: -687ms
+2025-03-14 20:54:23,649 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 20:54:25,563 - INFO - ATR inicializado - Largo: 845.16886861, Corto: 105.78901537
+2025-03-14 20:54:26,437 - INFO - Diferencia de tiempo con el servidor: -685ms
+2025-03-14 20:54:27,306 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:54:28,167 - INFO - ATR inicializado - Largo: 845.16886861, Corto: 105.78901537
+2025-03-14 20:54:29,015 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:54:35,248 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:54:36,258 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:54:42,506 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:54:43,685 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:54:49,763 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:54:50,447 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:54:56,850 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:54:57,532 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:55:04,189 - INFO - Diferencia de tiempo con el servidor: -695ms
+2025-03-14 20:55:04,190 - INFO - Iniciando sincronización programada de tiempo
+2025-03-14 20:55:04,694 - INFO - Diferencia de tiempo con el servidor: -688ms
+2025-03-14 20:55:05,405 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:55:06,747 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:55:12,823 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:55:14,166 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:55:20,407 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:55:21,411 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:55:27,510 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:55:28,190 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:59:41,966 - INFO - Diferencia de tiempo con el servidor: -705ms
+2025-03-14 20:59:41,966 - INFO - Umbrales ajustados dinámicamente. Factor: 1.01
+2025-03-14 20:59:41,967 - INFO - Iniciando sincronización inicial de tiempo
+2025-03-14 20:59:42,469 - INFO - Diferencia de tiempo con el servidor: -705ms
+2025-03-14 20:59:42,469 - INFO - Bot de gestión de riesgos inicializado correctamente
+2025-03-14 20:59:43,976 - INFO - ATR inicializado - Largo: 856.56886861, Corto: 112.55934358
+2025-03-14 20:59:45,177 - INFO - Diferencia de tiempo con el servidor: -708ms
+2025-03-14 20:59:45,177 - INFO - Umbrales ajustados dinámicamente. Factor: 1.01
+2025-03-14 20:59:45,177 - WARNING - Intento de sincronización 1/3
+2025-03-14 20:59:45,357 - INFO - Diferencia de tiempo con el servidor: -706ms
+2025-03-14 20:59:45,358 - INFO - Sincronización exitosa: -706ms
+2025-03-14 20:59:46,247 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:59:46,959 - INFO - ATR inicializado - Largo: 856.56886861, Corto: 112.55934358
+2025-03-14 20:59:47,317 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:59:53,384 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 20:59:54,564 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:00:00,631 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:00:01,655 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:00:08,138 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:00:09,401 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:00:16,200 - INFO - Diferencia de tiempo con el servidor: -708ms
+2025-03-14 21:00:16,200 - INFO - Umbrales ajustados dinámicamente. Factor: 1.01
+2025-03-14 21:00:16,200 - INFO - Iniciando sincronización programada de tiempo
+2025-03-14 21:00:16,707 - INFO - Diferencia de tiempo con el servidor: -714ms
+2025-03-14 21:00:16,708 - WARNING - Intento de sincronización 1/3
+2025-03-14 21:00:17,209 - INFO - Diferencia de tiempo con el servidor: -707ms
+2025-03-14 21:00:17,210 - INFO - Sincronización exitosa: -707ms
+2025-03-14 21:00:18,330 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:00:19,177 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:00:25,235 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:00:26,414 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:00:32,477 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:00:33,488 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:00:39,755 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:00:40,775 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:00:47,573 - INFO - Diferencia de tiempo con el servidor: -716ms
+2025-03-14 21:00:47,574 - INFO - Umbrales ajustados dinámicamente. Factor: 1.01
+2025-03-14 21:00:47,574 - INFO - Iniciando sincronización programada de tiempo
+2025-03-14 21:00:47,749 - INFO - Diferencia de tiempo con el servidor: -710ms
+2025-03-14 21:00:47,750 - WARNING - Intento de sincronización 1/3
+2025-03-14 21:00:48,252 - INFO - Diferencia de tiempo con el servidor: -709ms
+2025-03-14 21:00:48,253 - INFO - Sincronización exitosa: -709ms
+2025-03-14 21:00:48,952 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:00:49,962 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:00:55,704 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:00:56,730 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:01:02,803 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:01:03,820 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:01:10,046 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:01:11,066 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:01:17,724 - INFO - Diferencia de tiempo con el servidor: -712ms
+2025-03-14 21:01:17,724 - INFO - Umbrales ajustados dinámicamente. Factor: 1.01
+2025-03-14 21:01:17,725 - INFO - Iniciando sincronización programada de tiempo
+2025-03-14 21:01:18,228 - INFO - Diferencia de tiempo con el servidor: -711ms
+2025-03-14 21:01:18,229 - WARNING - Intento de sincronización 1/3
+2025-03-14 21:01:18,406 - INFO - Diferencia de tiempo con el servidor: -713ms
+2025-03-14 21:01:18,407 - WARNING - Intento de sincronización 2/3
+2025-03-14 21:01:18,909 - INFO - Diferencia de tiempo con el servidor: -711ms
+2025-03-14 21:01:18,910 - WARNING - Intento de sincronización 3/3
+2025-03-14 21:01:19,429 - INFO - Diferencia de tiempo con el servidor: -725ms
+2025-03-14 21:01:19,429 - WARNING - Desincronización detectada: -725ms > 709.8ms. Monitoreando...
+2025-03-14 21:01:20,296 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:01:21,320 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:01:27,388 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:01:27,747 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:01:33,814 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:01:34,825 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:01:41,106 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:01:42,121 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:01:48,753 - INFO - Diferencia de tiempo con el servidor: -713ms
+2025-03-14 21:01:48,753 - INFO - Umbrales ajustados dinámicamente. Factor: 1.01
+2025-03-14 21:01:48,753 - INFO - Iniciando sincronización programada de tiempo
+2025-03-14 21:01:49,257 - INFO - Diferencia de tiempo con el servidor: -713ms
+2025-03-14 21:01:49,257 - WARNING - Intento de sincronización 1/3
+2025-03-14 21:01:49,759 - INFO - Diferencia de tiempo con el servidor: -713ms
+2025-03-14 21:01:49,759 - WARNING - Intento de sincronización 2/3
+2025-03-14 21:01:50,261 - INFO - Diferencia de tiempo con el servidor: -713ms
+2025-03-14 21:01:50,262 - WARNING - Intento de sincronización 3/3
+2025-03-14 21:01:50,760 - INFO - Diferencia de tiempo con el servidor: -713ms
+2025-03-14 21:01:50,760 - WARNING - Desincronización detectada: -713ms > 710.3333333333334ms. Monitoreando...
+2025-03-14 21:01:51,451 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:01:52,131 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:01:58,194 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:01:58,883 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:02:04,949 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:02:05,973 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:02:11,732 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:02:12,917 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:02:19,392 - INFO - Diferencia de tiempo con el servidor: -715ms
+2025-03-14 21:02:19,392 - INFO - Umbrales ajustados dinámicamente. Factor: 1.02
+2025-03-14 21:02:19,392 - INFO - Iniciando sincronización programada de tiempo
+2025-03-14 21:02:19,896 - INFO - Diferencia de tiempo con el servidor: -716ms
+2025-03-14 21:02:19,896 - WARNING - Intento de sincronización 1/3
+2025-03-14 21:02:20,400 - INFO - Diferencia de tiempo con el servidor: -715ms
+2025-03-14 21:02:20,400 - WARNING - Intento de sincronización 2/3
+2025-03-14 21:02:20,901 - INFO - Diferencia de tiempo con el servidor: -715ms
+2025-03-14 21:02:20,902 - WARNING - Intento de sincronización 3/3
+2025-03-14 21:02:21,077 - INFO - Diferencia de tiempo con el servidor: -715ms
+2025-03-14 21:02:21,078 - WARNING - Desincronización detectada: -715ms > 711.0ms. Monitoreando...
+2025-03-14 21:02:22,094 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:02:22,786 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:02:29,014 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:02:29,707 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:02:35,786 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:02:36,794 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:02:42,872 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:02:43,720 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:02:50,005 - INFO - Diferencia de tiempo con el servidor: -716ms
+2025-03-14 21:02:50,006 - INFO - Umbrales ajustados dinámicamente. Factor: 1.02
+2025-03-14 21:02:50,006 - INFO - Iniciando sincronización programada de tiempo
+2025-03-14 21:02:50,510 - INFO - Diferencia de tiempo con el servidor: -719ms
+2025-03-14 21:02:50,510 - WARNING - Intento de sincronización 1/3
+2025-03-14 21:02:51,019 - INFO - Diferencia de tiempo con el servidor: -723ms
+2025-03-14 21:02:51,019 - WARNING - Intento de sincronización 2/3
+2025-03-14 21:02:51,196 - INFO - Diferencia de tiempo con el servidor: -719ms
+2025-03-14 21:02:51,196 - WARNING - Intento de sincronización 3/3
+2025-03-14 21:02:51,694 - INFO - Diferencia de tiempo con el servidor: -717ms
+2025-03-14 21:02:51,695 - WARNING - Desincronización detectada: -717ms > 711.625ms. Monitoreando...
+2025-03-14 21:02:52,563 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:02:53,583 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:02:59,650 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:03:00,656 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:03:06,721 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:03:07,731 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:03:13,502 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:03:14,358 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:03:20,973 - INFO - Diferencia de tiempo con el servidor: -719ms
+2025-03-14 21:03:20,973 - INFO - Umbrales ajustados dinámicamente. Factor: 1.02
+2025-03-14 21:03:20,973 - INFO - Iniciando sincronización programada de tiempo
+2025-03-14 21:03:21,470 - INFO - Diferencia de tiempo con el servidor: -717ms
+2025-03-14 21:03:21,471 - WARNING - Intento de sincronización 1/3
+2025-03-14 21:03:21,973 - INFO - Diferencia de tiempo con el servidor: -720ms
+2025-03-14 21:03:21,974 - WARNING - Intento de sincronización 2/3
+2025-03-14 21:03:22,148 - INFO - Diferencia de tiempo con el servidor: -719ms
+2025-03-14 21:03:22,148 - WARNING - Intento de sincronización 3/3
+2025-03-14 21:03:22,656 - INFO - Diferencia de tiempo con el servidor: -720ms
+2025-03-14 21:03:22,657 - WARNING - Desincronización detectada: -720ms > 712.4444444444446ms. Monitoreando...
+2025-03-14 21:03:23,845 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:03:24,202 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:03:30,267 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:03:31,454 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:03:37,554 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:03:38,564 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:03:44,623 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:03:45,305 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:03:52,117 - INFO - Diferencia de tiempo con el servidor: -721ms
+2025-03-14 21:03:52,117 - INFO - Umbrales ajustados dinámicamente. Factor: 1.02
+2025-03-14 21:03:52,117 - INFO - Iniciando sincronización programada de tiempo
+2025-03-14 21:03:52,617 - INFO - Diferencia de tiempo con el servidor: -721ms
+2025-03-14 21:03:52,617 - WARNING - Intento de sincronización 1/3
+2025-03-14 21:03:52,791 - INFO - Diferencia de tiempo con el servidor: -721ms
+2025-03-14 21:03:52,791 - WARNING - Intento de sincronización 2/3
+2025-03-14 21:03:53,293 - INFO - Diferencia de tiempo con el servidor: -721ms
+2025-03-14 21:03:53,294 - WARNING - Intento de sincronización 3/3
+2025-03-14 21:03:53,469 - INFO - Diferencia de tiempo con el servidor: -720ms
+2025-03-14 21:03:53,470 - WARNING - Desincronización detectada: -720ms > 713.3ms. Monitoreando...
+2025-03-14 21:03:54,181 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:03:54,887 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:04:00,956 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:04:01,963 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:04:08,194 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:04:08,874 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:04:15,132 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:04:16,138 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:04:22,424 - INFO - Diferencia de tiempo con el servidor: -722ms
+2025-03-14 21:04:22,425 - INFO - Umbrales ajustados dinámicamente. Factor: 1.02
+2025-03-14 21:04:22,425 - INFO - Iniciando sincronización programada de tiempo
+2025-03-14 21:04:22,931 - INFO - Diferencia de tiempo con el servidor: -724ms
+2025-03-14 21:04:22,931 - WARNING - Intento de sincronización 1/3
+2025-03-14 21:04:23,437 - INFO - Diferencia de tiempo con el servidor: -726ms
+2025-03-14 21:04:23,437 - WARNING - Intento de sincronización 2/3
+2025-03-14 21:04:23,612 - INFO - Diferencia de tiempo con el servidor: -723ms
+2025-03-14 21:04:23,612 - WARNING - Intento de sincronización 3/3
+2025-03-14 21:04:24,128 - INFO - Diferencia de tiempo con el servidor: -741ms
+2025-03-14 21:04:24,129 - WARNING - Desincronización detectada: -741ms > 715.0ms. Monitoreando...
+2025-03-14 21:04:25,156 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:04:26,159 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:04:32,253 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:04:33,269 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:04:38,693 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:04:39,866 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:04:46,132 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:04:46,830 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:04:53,470 - INFO - Diferencia de tiempo con el servidor: -726ms
+2025-03-14 21:04:53,471 - INFO - Umbrales ajustados dinámicamente. Factor: 1.02
+2025-03-14 21:04:53,471 - INFO - Iniciando sincronización programada de tiempo
+2025-03-14 21:04:53,970 - INFO - Diferencia de tiempo con el servidor: -724ms
+2025-03-14 21:04:53,971 - WARNING - Intento de sincronización 1/3
+2025-03-14 21:04:54,471 - INFO - Diferencia de tiempo con el servidor: -726ms
+2025-03-14 21:04:54,471 - WARNING - Intento de sincronización 2/3
+2025-03-14 21:04:54,973 - INFO - Diferencia de tiempo con el servidor: -725ms
+2025-03-14 21:04:54,973 - WARNING - Intento de sincronización 3/3
+2025-03-14 21:04:55,148 - INFO - Diferencia de tiempo con el servidor: -725ms
+2025-03-14 21:04:55,148 - WARNING - Desincronización detectada: -725ms > 716.8000000000001ms. Monitoreando...
+2025-03-14 21:04:55,514 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:04:56,369 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:05:02,493 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:05:03,586 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:05:09,829 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:05:10,231 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:05:15,978 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:05:17,546 - INFO - Notificación: Error: ATR no disponible para calcular el tamaño de la posición
+2025-03-14 21:05:17,546 - ERROR - Error: No se pudo calcular el tamaño de la posición
+2025-03-14 21:05:18,057 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:05:24,424 - INFO - Diferencia de tiempo con el servidor: -727ms
+2025-03-14 21:05:24,424 - INFO - Umbrales ajustados dinámicamente. Factor: 1.03
+2025-03-14 21:05:24,424 - INFO - Iniciando sincronización programada de tiempo
+2025-03-14 21:05:24,933 - INFO - Diferencia de tiempo con el servidor: -730ms
+2025-03-14 21:05:24,934 - WARNING - Intento de sincronización 1/3
+2025-03-14 21:05:25,112 - INFO - Diferencia de tiempo con el servidor: -729ms
+2025-03-14 21:05:25,113 - WARNING - Intento de sincronización 2/3
+2025-03-14 21:05:25,627 - INFO - Diferencia de tiempo con el servidor: -732ms
+2025-03-14 21:05:25,627 - WARNING - Intento de sincronización 3/3
+2025-03-14 21:05:26,128 - INFO - Diferencia de tiempo con el servidor: -726ms
+2025-03-14 21:05:26,128 - WARNING - Desincronización detectada: -726ms > 718.6999999999999ms. Monitoreando...
+2025-03-14 21:05:27,144 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:05:28,856 - INFO - Notificación: Error: ATR no disponible para calcular el tamaño de la posición
+2025-03-14 21:05:28,856 - ERROR - Error: No se pudo calcular el tamaño de la posición
+2025-03-14 21:05:29,358 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:05:35,422 - WARNING - Insufficient price data for ATR calculation
+2025-03-14 21:05:37,449 - INFO - Notificación: Error: ATR no disponible para calcular el tamaño de la posición
+2025-03-14 21:05:37,449 - ERROR - Error: No se pudo calcular el tamaño de la posición
+2025-03-14 21:05:37,623 - WARNING - Insufficient price data for ATR calculation
